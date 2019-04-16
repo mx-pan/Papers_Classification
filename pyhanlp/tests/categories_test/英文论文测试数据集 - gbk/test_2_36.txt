@@ -1,0 +1,6 @@
+**题目**
+The Construction n method of GIS for Aut tonomous Vehicles
+**关键字**
+GIS; Autonomous vehicle; Geo ographic objects; Data fusion
+**摘要**
+In order to achieve the dynamic construction of GIS which shows the environment information around the driving autonomous vehicle, this paper introduces a method, including the data fusion of laser radar, GPS and IMU, the registration of point cloud data, the rasterisation and the extraction of isosurface. The geographic objects which influence the driving characteristics of the autonomous vehicle can be extracted from the processed isosurface according to the analysis of the feature of the autonomous vehicle. This construction method improves some limited ability of GIS, which can provide the navigation information for the autonomous vehicle.

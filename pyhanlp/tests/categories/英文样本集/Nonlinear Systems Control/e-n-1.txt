@@ -1,0 +1,6 @@
+**题目**
+Additive fault tolerant control of nonlinear singularly perturbed systems against actuator fault
+**关键字**
+nonlinear time invariant singularly perturbed systems,singular perturbation method,additive fault tolerant control,actuator defect,Lyapunov theory.
+**摘要**
+Abstract This paper presents the design of an additive fault tolerant control for nonlinear time-invariant singularly perturbed systems against actuator faults based on Lyapunov redesign principle. The overall system is reduced into subsystems with fast and slow dynamic behavior using singular perturbation method. The time scale reduction is carried out when the singular perturbation parameter is set to zero, thus avoiding the numerical stiffness due to the interaction of two different dynamics. The fault tolerant controller is computed in two steps. First, a nominal composite controller is designed using the reduced subsystems. Secondly, an additive part is combined with the basic controller to overcome the fault effect. The derived ε - independent controller guarantees asymptotic stability despite the presence of actuator faults. The Lyapunov stability theory is used to prove the stability provided the singular perturbation parameter is sufficiently small. The theoretical results are simulated using a numerical application.

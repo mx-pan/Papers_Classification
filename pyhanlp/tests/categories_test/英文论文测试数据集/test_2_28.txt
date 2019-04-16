@@ -1,0 +1,6 @@
+**题目**
+Consensus control of switching directed networks with general linear node dynamics
+**关键字**
+Consensus control; switching directed networks; linear node dynamics; multi-agent
+**摘要**
+Distributed consensus control for multi-agent systems with general linear node dynamics and switching balanced directed topologies is addressed in this paper. By using tools from algebraic graph theory and switching systems theory, it is proved that distributed consensus in the closed-loop linear multi-agent systems with switching balanced directed topologies can be achieved if, the feedback gain matrix of the protocol is appro-priately designed and the coupling strength among neighboring agents is larger than a threshold value. The convergence rate for the achievement of consensus is further discussed. Interestingly, it is found that an arbitrarily given large convergence rate can be guaranteed if each agent is controllable. The proposed results are verified through numerical simulations.

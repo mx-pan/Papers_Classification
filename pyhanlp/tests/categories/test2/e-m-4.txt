@@ -1,0 +1,6 @@
+**题目**
+Distributed robust consensus control of multi-agent systems with heterogeneous matching uncertainties
+**关键字**
+Multi-agent systems,Uncertain systems,Consensus,Distributed tracking,Adaptive control
+**摘要**
+Abstract(#br)This paper considers the distributed consensus problem of linear multi-agent systems subject to different matching uncertainties for both the cases without and with a leader of bounded unknown control input. Due to the existence of nonidentical uncertainties, the multi-agent systems discussed in this paper are essentially heterogeneous. For the case where the communication graph is undirected and connected, based on the local state information of neighboring agents, a fully distributed continuous adaptive consensus protocol is designed, under which the consensus error is uniformly ultimately bounded and exponentially converges to a small adjustable bounded set. For the case where there exists a leader whose control input is unknown and bounded, a distributed adaptive consensus protocol is proposed to ensure the boundedness of the consensus error. A sufficient condition for the existence of the proposed protocols is that each agent is stabilizable.

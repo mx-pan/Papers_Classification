@@ -1,0 +1,6 @@
+**题目**
+Finite-time distributed event-triggered consensus control for multi-agent systems
+**关键字**
+Event-triggered control,Finite-time consensus,Distributed control,Multi-agent systems
+**摘要**
+Abstract(#br)In this paper, we study the finite-time distributed event-triggered consensus control for multi-agent systems. The controllers and the events are designed in a distributed manner, based only on local information. Compared with conventional asymptotic consensus, finite time consensus can reach consensus faster and have better disturbance rejection properties. Thus, we propose a new nonlinear distributed control protocol to achieve finite-time consensus. Moreover, in order to realize the consensus control for multi-agent systems, only the communication between the agent and its local neighbors is needed, therefore, the designed control is essentially distributed. Two sufficient conditions are proposed to reach finite-time consensus for multi-agent systems with fixed and switching network topologies, respectively. Finally, two simulation examples are presented to demonstrate the effectiveness of the theoretical results.are demonstrated.

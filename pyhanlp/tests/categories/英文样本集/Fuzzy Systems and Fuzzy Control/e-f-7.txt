@@ -1,0 +1,6 @@
+**题目**
+FUZZY ADAPTIVE CONTROL OF NONLINEAR TWO-MASS SYSTEM
+**关键字*
+fuzzy control,adaptive control,nonlinear two-mass system,compensation of friction
+**摘要**
+Abstract In the paper, an adaptive control MRAS-based structure for nonlinear two-mass system is proposed. The performance of the control structure is supported by additional compensator. After short introduction a mathematical model of the drive system is presented. In the plant, the additional nonlinearities such as friction and mechanical hysteresis are considered. Then the structure of the fuzzy system is shown. Contrary to the majority of papers the controller considered is based on the II type fuzzy sets. Then the simulation tests showing performance of the proposed structure are presented. The drive is tested at different operation points, including low-speed region where friction plays dominant role. A comparison of classical PI controller with antiwindup and the proposed structure is presented. Then laboratory set-up with DC motor is described briefly. Experimental results are included in the paper. It is shown that the torsional vibrations of two-mass system are damped effectively. The impact of the existing delays of system is discussed. A summary is given at the end of the paper.

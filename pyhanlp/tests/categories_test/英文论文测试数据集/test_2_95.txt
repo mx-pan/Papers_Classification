@@ -1,0 +1,6 @@
+**题目**
+Modeling and Identification of the Yaw Dynamics of an Autonomous Tractor
+**关键字**
+Yaw Dynamics; Autonomous Tractor
+**摘要**
+This study deals with the yaw dynamics modeling and identification of an autonomous tractor. First, three different yaw dynamics models are developed considering various types of soil conditions. In these model derivations, the relaxation length is considered to calculate the tire side-slip angles for the two models, and the linear model is used to calculate the lateral forces on the tires for all the models. Then, to determine the most appropriate model for the autonomous tractor at hand, frequency domain identification method is preferred. After checking the level of nonlinearities of the steering mechanism and the yaw dynamics by using an odd-odd multisine signal as the excitation, these systems are identified by using maximum likelihood frequency domain identification method. The identifications results show that the two derived models among the three different models have the ability of identifying the yaw dynamics accurately. As a simpler model, an empirical second order model gives also reasonable identification results for the tractor at hand.

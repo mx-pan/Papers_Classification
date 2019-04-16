@@ -1,0 +1,6 @@
+**题目**
+Adaptive Robust Fault-Tolerant Attitude Control of Spacecraft with Finite-Time Convergence
+**关键字**
+fault-tolerant attitude control; spacecraft; sliding mode
+**摘要**
+This paper aims at investigating finite-time faulttolerant attitude stabilization control designs for rigid spacecrafts involving two types of actuator faults and modeling uncertainties. In order to express the attitude dynamics in a more convenient manner, the Lagrange-like equation is adopted to describe spacecraft attitude dynamics. Using the terminal sliding mode technique, an on-line adaptive law is employed to estimate the bounds of the uncertainties, and finite-time convergence is achieved by an adaptive fault-tolerant controller in spite of actuator faults. Besides showing fault-tolerant capability, finitetime stability is also guaranteed not only in the reaching phase but also in the sliding phase. Simulation results illustrate the effectiveness of the proposed method.

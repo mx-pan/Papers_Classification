@@ -1,0 +1,6 @@
+**题目**
+Anti-synchronization in different new chaotic systems via active nonlinear control
+**关键字**
+anti-synchronization,new chaotic system,active nonlinear control.
+**摘要**
+In this paper, we discuss anti-synchronization between two identical new chaotic systems and anti-synchronization between another two identical new chaotic systems by active nonlinear control. The sufficient conditions for achieving the anti-synchronization of two new chaotic systems are derived based on Lyapunov stability theory. Numerical simulations are provided for illustration and verification of the proposed method.

@@ -1,0 +1,6 @@
+**题目**
+Cluster consensus of Boolean multi-agent systems
+**关键字**
+multi-agent systems; Consensus control; Boolean MAS; graph theory
+**摘要**
+Consensus of the multi-agent systems (MASs) is ubiquitous in nature. Over the past decade, consensus of theMASs has received an increasing attention from various disciplines. Inspired by the cluster consensus of the discrete-time MAS, this paper aims at exploring the cluster consensus of the Boolean MAS and applies it to modeling the synchronous flashing of fireflies. Based on the graph theory and the Boolean matrix analysis, two cluster consensus criteria are established for the Boolean MASs with fixed and switching topologies. Furthermore, numerical simulations are also given to validate the effectiveness of these proposed criteria.

@@ -1,0 +1,6 @@
+**题目**
+Distributed Tracking for Networked Euler-Lagrange Systems Using Only Relative Position Measurements
+**关键字**
+Networked Euler-Lagrange Systems; coordinated tracking control; complex network
+**摘要**
+In this paper, the problem of distributed coordinated tracking control for networked Euler-Lagrange systems using only relative position measurements is studied. Under the condition that only a subset of followers have access to the leader, sliding mode estimators are developed to estimate the states of the dynamic leader accurately in finite time. A set of distributed observers which only uses relative position information is designed to deal with the unavailability of the followers’ velocities. Using the observer outputs, distributed control laws are proposed such that the objective of tracking a dynamic leader under a spanning tree is achieved. The asymp- totic stability of the proposed distributed observer-controller is proved through Lyapunov method. Numerical simulation results are also provided to show the effectiveness of the control laws.

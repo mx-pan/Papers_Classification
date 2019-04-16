@@ -1,0 +1,6 @@
+**题目**
+Robust adaptive control of nonlinear systems with unknown state delay
+**关键字**
+adaptive control; nonlinear systems; unknown state delay
+**摘要**
+In this work, we propose a new robust adaptive controller for a class of multi?Cinput multi?Coutput nonlinear systems subject to uncertain state delay. The proposed method is proven to yield semi?Cglobal asymptotic tracking despite the presence of additive input and output disturbances and parametric uncertainty in the system dynamics. An adaptive desired system compensation in conjunction with a continuous nonlinear integral feedback component is utilized in the design of the controller and Lyapunov?Cbased techniques, are used to prove that the tracking error is asymptotically driven to zero. Numerical simulation results are presented to demonstrate the effectiveness of the proposed method.

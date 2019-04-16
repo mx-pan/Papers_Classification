@@ -1,0 +1,6 @@
+**题目**
+Passivity-based finite-time attitude control problem
+**关键字**
+attitude control; finite-time control; passivity
+**摘要**
+In this paper the passivity-based finite-time attitude control problem of a rigid spacecraft is addressed. Firstly, for a certain class of nonlinear passive system we derive different control laws according to different choices of storage functions. Based on this result, combining the sliding mode control method, we propose a passivity-based finite-time controller for a rigid spacecraft. Performances of the proposed controllers are illus- trated by simulation.

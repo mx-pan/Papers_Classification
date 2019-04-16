@@ -1,0 +1,6 @@
+**题目**
+Adaptive Fuzzy H<sup>∞</sup> Robust Tracking Control for Nonlinear MIMO Systems
+**关键字**
+Nonlinear MIMO system,adaptive fuzzy control,H∞ control.
+**摘要**
+Abstract In this paper an adaptive fuzzy H∞ robust tracking control scheme is developed for a class of uncertain nonlinear Multi-Input and Multi-Output (MIMO) systems. Firstly, fuzzy logic systems are introduced to approximate the unknown nonlinear function of the system by an adaptive algorithm. Next, a H∞ robust compensator controller is employed to eliminate the effect of the approximation error and external disturbances. Consequently, a fuzzy adaptive robust controller is proposed, such that the tracking error of the resulting closed-loop system converges to zero and the tracking robustness performance can be guaranteed. The simulation results performed on a two-link robotic manipulator demonstrate the validity of the proposed control scheme.

@@ -1,0 +1,6 @@
+**题目**
+Adaptive control using multiple parallel dynamic neural networks
+**关键字**
+Adaptive control; neural networks; nonlinear dynamic system; multiple model adaptive control
+**摘要**
+The control problem of an unknown nonlinear dynamic system which contains the abrupt changes of parameters is concerned. Multiple models based on dynamic neural networks are used to approximate the dynamic character of unknown system. Different controllers based on these models and an effectively switching mechanism are applied to an unknown system to trace a reference trajectory. Further, we propose different switching and turning schemes for adaptive control which combine fixed and adaptive models. From the simulation, it can be shown that the multiple model adaptive control method proposed in this paper can improve the control performance greatly compared with the conventional adaptive control.

@@ -1,0 +1,6 @@
+**题目**
+Indirect Adaptive Formation Control with Nonlinear Dynamics and Parametric Uncertainty
+**关键字**
+Adaptive Formation Control; Nonlinear Dynamics; Parametric Uncertainty; multi-agent
+**摘要**
+This paper focuses on coordination of multi-agent systems with agents having holonomic nonlinear dynamics and un- certain system parameters. An indirect adaptive control scheme composed of a parameter estimator and a feedback-linearization based control law is designed based on the certainty equivalence principle. (i) Simple linear and (ii) sliding mode control structures are used in the outer control loop. The controllers successfully satisfy the objectives of formation maintenance and trajectory tracking. Simulation results for a sample two-dimensional for- mation are presented, demonstrating the performance of the proposed control scheme.

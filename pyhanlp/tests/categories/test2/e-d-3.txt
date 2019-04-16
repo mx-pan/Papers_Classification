@@ -1,0 +1,7 @@
+**题目**
+CyberInfrastructures of cyber-applications-systems
+**关键字**
+Dynamic data driven applications systems,DDDAS,InfoSymbiotic systems,InfoSymbiotics,Multi-scale,Multi-modal,Multi-data,Dynamic multi-scale modeling,Uncertainty quantification,Uncertainty propagation,Cyberinfrastructure,Software architectural frameworks,Realtime,High-end,Instrumentation
+**摘要**
+Abstract(#br)The paper discusses foundational notions and conditions in complex applications modeling and in software frameworks to support advanced CyberInfrastructure environments such as those implied and required for Dynamic Data Driven Applications Systems, as well as other classes of applications, collectively referred to here as Cyber-Applications-Systems. The paper discusses considerations of dynamic invocation of multi-scale models, uncertainty quantification, uncertainty propagation, and dynamic runtime systems support on heterogeneous, distributed, end-to-end dynamically integrated high-end, real-time and instrumentation and control systems.
+

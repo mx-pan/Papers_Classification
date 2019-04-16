@@ -1,0 +1,6 @@
+**题目**
+Modeling and Identification of Nonlinear Cascade and Sandwich Systems with General Backlash
+**关键字**
+nonlinear systems,general backlash,modeling,identification,cascade systems.
+**摘要**
+Abstract The paper deals with modeling and identification of nonlinear cascade and sandwich systems including general backlash, where instead of the straight lines determining the upward and downward parts of backlash characteristic, general curves are considered. This enables more precise modeling of mechanical parts and improves the performance of control systems. The analytical description of the general backlash leads to mathematical models of the cascade system with output general backlash and the sandwich system with internal general backlash, where all the model parameters are separated. Hence, the identification is solved as a quasi-linear problem. Iterative algorithms with internal variables estimation are proposed and illustrative examples are included.

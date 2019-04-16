@@ -1,0 +1,6 @@
+**题目**
+A data-driven methodology for solving the control strategy of descriptor systems
+**关键字**
+data-driven; learning methods; discrete time descriptor systems; algorithm
+**摘要**
+This paper is concerned with the reinforcement learning methods for the discrete time descriptor systems. An algorithm, as well as its theoretical basis, is presented. The algorithm can generate the optimal controller for the target descriptor system only by the measured input and output data, with no need of the information about the system state and system matrices. The algorithm can work well not only when the system index is equal or less than one, but also can work well when the index is greater than one. Simulation indicates that the presented method can solve the optimal control problem well for descriptor systems when the system model is not exactly known, but the input and output data can be measured.

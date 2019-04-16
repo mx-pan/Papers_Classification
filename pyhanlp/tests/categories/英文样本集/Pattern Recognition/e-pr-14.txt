@@ -1,0 +1,6 @@
+**题目**
+Damage evolution in wood – pattern recognition based on acoustic emission (AE) frequency spectra
+**关键字**
+acoustic emission,crack growth,damage evolution,frequency spectrum,microscopic damage mechanisms,Spruce,unsupervised pattern recognition.
+**摘要**
+Abstract Tensile tests on miniature spruce specimens have been performed by means of acoustic emission (AE) analysis. Stress was applied perpendicular (radial direction) and parallel to the grain. Nine features were selected from the AE frequency spectra. The signals were classified by means of an unsupervised pattern recognition approach, and natural classes of AE signals were identified based on the selected features. The algorithm calculates the numerically best partition based on subset combinations of the features provided for the analysis and leads to the most significant partition including the respective feature combination and the most probable number of clusters. For both specimen types investigated, the pattern recognition technique indicates two AE signal clusters. Cluster A comprises AE signals with a relatively high share of low-frequency components, and the opposite is true for cluster B. It is hypothesized that the signature of rapid and slow crack growths might be the origin for this cluster formation.

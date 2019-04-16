@@ -1,0 +1,6 @@
+**题目**
+Cooperative coverage of mobile robots with distributed estimation and control of connectivity
+**关键字**
+connected coverage; distributed cooperative control; minimal-time consensus; eigenvalue estimation
+**摘要**
+This paper deals with the discrete-time connected coverage problem with the constraint that each robot of group can only sense and communicate in the local range. In such distributed framework, the algebraic parameter of connectivity, that is, the second smallest eigenvalue of topology Laplacian, is estimated by introducing the minimal-time consensus algorithm to guarantee the high cooperation efficiency. Since no certain edges are imposed to be preserved, the method of keeping the second smallest eigenvalue positive reserves a sufficient degree of freedom for the motion of robots in the connected group. Furthermore, a self-deployment algorithm is developed to disperse the robots with the precondition that the resulting second smallest eigenvalue keeps positive at each time-step. At last, we prove that the proposed algorithm steers each pair of neighbor robots to reach the largest objective distance from each other. It implies that the distributed optimal coverage is achieved under the connectivity constraint.

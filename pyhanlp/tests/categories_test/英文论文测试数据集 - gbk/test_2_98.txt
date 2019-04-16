@@ -1,0 +1,6 @@
+**题目**
+VB-AQKF-STF: A novel linear state estimator for stochastic quantized measurements systems
+**关键字**
+VB-AQKF-STF; linear systems; state estimator; stochastic quantized
+**摘要**
+Networked state estimation with adaptive bit quantization is studied for linear systems in this paper, for which sensor measurements are locally quantized and the taken quantized messages are sent to a processing center. Strong tracking filtering (STF) technology and variational Bayesian (VB) method are jointly adopted to deal with unknown variance of stochastic quantization error vector. A kind of novel quantized state estimator VB-AQKF-STF is proposed to effectively improve quantized estimate accuracy and performance to deal with sudden change of state. The variance of the quantization error is approximated by a known upper bound, and the STF with a time-variant fading factor is used to reduce influence of the approximation and achieve strong tracking performance for the inaccurate system model. The VB method is applied to dynamically evaluate the variance of the integrated message noise. In nature, this variance estimate essentially provides a basis for the quantized strong tracking filter. Two simulation examples are demonstrated to validate the proposed quantized estimators.

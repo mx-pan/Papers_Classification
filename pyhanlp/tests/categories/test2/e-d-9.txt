@@ -1,0 +1,6 @@
+**题目**
+CBTC System Dynamic Data Security Verification Method
+**关键字**
+Formal Modeling,Communication Based Train Control System,Dynamic Data Safety
+**摘要**
+Communication based train control system as a train control system is designed to ensure driving safety, the system description and system function of the real environment is driven by different types of data. Data security is an important component part of CBTC system security, the dynamic data as interactive data within the system is more important influence on system safety, it is necessary to put forward the formal modeling for dynamic data security verification. This paper puts forward a kind of dynamic data security verification method for train control system based on UPPAAL. The unified modeling language (UML) is adopted to train control scene modeling analysis, through model transformation method to convert the UML sequence diagram to timed automata model, using UPPAAL validation tool for train control scenario simulation analysis, through dynamic data to meet security constraint conditions shows that the dynamic data security.

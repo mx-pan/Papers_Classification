@@ -1,0 +1,7 @@
+**题目**
+Integration test project of CEEF--a test bed for Closed Ecological Life Support Systems
+**关键字**
+Air Conditioning,Animals,Ecological Systems, Closed,Evaluation Studies as Topic,Facility Design and Construction,Housing, Animal,Humans,Japan,Life Support Systems,Space Simulation,Systems Integration.
+**摘要**
+CEEF (Closed Ecology Experiment Facilities) were installed at Rokkasho village in northern Japan, for the purpose of clarifying life-support mechanisms in a completely closed space, such as a Lunar or Mars base. An integration test using the Closed Plantation Experiment Facility and Closed Animal Breeding & Habitation Experiment Facility is needed before conducting an entire closed experiment including plants, animals and humans. These integration tests are planned to be conducted step by step from fiscal 2001 to 2008.
+

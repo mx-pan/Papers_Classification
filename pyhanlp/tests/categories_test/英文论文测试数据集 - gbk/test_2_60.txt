@@ -1,0 +1,6 @@
+**题目**
+Energy consumption optimization for mobile robots in three-dimension motion using predictive control
+**关键字**
+mobile robots; off-road conditions; predictive control; energy consumption; torque saturation
+**摘要**
+As the demand for field mobile robots in off-road operations increased, the need to investigate the 3D motion for mobile robots became important. One of the main difficulties in the 3D motion of a mobile robot is the torque saturation of the DC motors of the wheels that occurs while climbing hills. In the present work, off-road conditions are utilized to benefit by avoiding torque saturation. Energy optimization algorithm using predictive control is implemented on a two-DC motor-driven wheels mobile robot while crossing a ditch. The developed algorithm is simulated and compared with the PID control and the open-loop control. The predictive control showed more capability to avoid torque saturation and noticeable reduction in the energy consumption. Furthermore, using the wheels motors armature current instead of the supply voltage as control variable in the predictive control showed more robust speed control. Simulation results showed that in case of knowing the ditch dimensions ahead of time, the developed algorithm is feasible.

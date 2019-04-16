@@ -1,0 +1,6 @@
+**题目**
+A non-communicating multi-robot system with switchable formations
+**关键字**
+Autonomous motion; connectivity; formation
+**摘要**
+We consider connected navigation of autonomous mobile robots with transitions in the group formation. The robots navigate using simple local steering rules without requiring explicit communication among themselves. The formations are achieved by designing proper cost functions and formation transitions are succeeded by switching among these cost functions. The resulting system is proven to be deadlock-free under certain conditions. ? 2013 IEEE.

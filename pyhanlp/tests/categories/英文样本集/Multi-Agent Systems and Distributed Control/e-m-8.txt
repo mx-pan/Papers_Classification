@@ -1,0 +1,6 @@
+**题目**
+Distributed control of multi-agent systems with random parameters and a major agent
+**关键字**
+Multi-agent system,Distributed control,Markov jump parameter,Optimal tracking control,Mean field theory
+**摘要**
+Abstract(#br)Distributed control of the multi-agent systems involving a major agent and a large number of minor agents is investigated in this paper. There exist Markov jump parameters in the dynamic equation and random parameters in the index functions. The major agent has salient impact on others. Each minor agent merely has tiny influence, while the average effect of all the minor agents is not negligible, which plays a significant role in the evolution and performance index of each agent. Besides the state of the major agent, each minor agent can only access to the information of its state and parameters. Based on the mean field (MF) theory, a set of distributed control laws is designed. By the probability limit theory, the uniform stability of the closed-loop system and the upper bound of the corresponding index values are obtained. Via a numerical example, the consistency of the MF estimation and the influence of the initial state values and parameters on the index values are demonstrated.

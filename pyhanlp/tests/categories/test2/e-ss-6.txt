@@ -1,0 +1,7 @@
+**题目**
+Constructing an enterprise viewpoint: evaluation of four business modelling techniques
+**关键字**
+Artificial Intelligence,Decision Support Systems, Clinical,Decision Support Techniques,Diabetes Computer Simulation,Computer Systems,Evaluation Studies as Topic,Systems Integration.
+**摘要**
+Business process modelling is presented as an important first step in the process of designing a distributed system by integrating pre-existing components. The elements describing a business process are derived from the ODP-enterprise viewpoint language. One of the viewpoints distinguished in the Open Distributed Processing standard is the enterprise viewpoint. This viewpoint describes the organizational context in which the distributed system to be constructed will be used. In this paper we will review four business modelling techniques and their suitability for expressing the enterprise viewpoint is evaluated.
+

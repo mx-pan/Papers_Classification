@@ -1,0 +1,6 @@
+**题目**
+Humanoid robot orientation stabilization by shoulder joint motion during locomotion
+**关键字**
+arm swing; biped locomotion; humanoid robot
+**摘要**
+Arm swing action is a natural phenomenon that emerges in biped locomotion. A shoulder torque reference generation method is introduced in this paper to utilize arms of a humanoid robot during locomotion. Main idea of the technique is the employment of shoulder joint actuation torques in order to stabilize body orientation. The reference torques are computed by a method which utilizes proportional and derivative actions. Body orientation angles serve as the inputs of this system. The approach is tested via simulations with the 3D full-dynamics model of the humanoid robot SURALP (Sabanci University Robotics Research Laboratory Platform). Results indicate that the method is successful in reducing oscillations of body angles during bipedal walking.

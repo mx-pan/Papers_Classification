@@ -1,0 +1,6 @@
+**题目**
+Graphical Description of Autopilot Robustness to Aerodynamic Uncertainties
+**关键字**
+D-decomposition method; flight control; robustness; structured uncertainties
+**摘要**
+In practice, flight control engineers conventionally check the robustness of a control system by perturbing several vital aerodynamic derivatives in addition to the calculation of stability margin. In this paper, an explicit geometrical approach is developed for the stability robustness analysis with structured aerodynamic uncertainties. A few parameters are considered as primary concerns according to empirical knowledge to reduce calculation complexity. A robust polygon is plotted for these vital parameters without any conservativeness. Moreover a computationally efficient method for calculating the largest stable hypercube in the parameter space is proposed in a straightforward manner, which eliminates the difficulties that arise in obtaining the corresponding singular value subject to real parameter uncertainties. Two examples are provided to illustrate the effectiveness of the proposed method. The familiar experience popularly used in practice can be explained in nature by the proposed method.

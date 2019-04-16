@@ -1,0 +1,6 @@
+**题目**
+Non-fragile fuzzy control design for nonlinear time-delay systems
+**关键字**
+time-delay; fuzzy control; lmi; stochastic systems
+**摘要**
+In this paper, a non-fragile fuzzy control design is proposed for a class of nonlinear systems with mixed discrete and distributed time delays. The Takagi and Sugeno (T-S) fuzzy set approach is applied to the modelling of the nonlinear dynamics, and a T-S fuzzy model is constructed, which can represent the nonlinear system. Then, based on the fuzzy linear model, a fuzzy linear controller is developed to stabilize the nonlinear system. The control law is obtained to ensure stochastically exponentially stability in the mean square. The sufficient conditions for the existence of such a control are proposed in terms of certain linear matrix inequalities.

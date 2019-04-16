@@ -1,0 +1,6 @@
+**题目**
+The medium access control problem for wireless communication networks modelled as hybrid dynamical systems
+**关键字**
+Hybrid dynamical systems,Logical-differential equations,Stability,Control of networks,Wireless communications
+**摘要**
+Abstract(#br)The paper considers the medium access control problem for a class of wireless communication networks. We apply mathematical models in terms of hybrid dynamical systems to analyze such networks. We introduce the concept of stabilizability for such systems which guarantees that any data packet in the wireless network will reach its destination within finite time. We obtain conditions for a wireless communication network to be stabilizable.

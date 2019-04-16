@@ -1,0 +1,6 @@
+**题目**
+Neural-Adaptive control for electro hydraulic servo system
+**关键字**
+Electro Hydraulic servo system; Radial basis function
+**摘要**
+In this study Neural Adaptive is used for velocity control and identification of an electro hydraulic servo system (EHSS) in the presence of flow nonlinearities, internal friction and noise. It has been found that this technique can be successfully used to stabilize any chosen operating point of the system with noise and without noise. All derived results are validated by computer simulation of a nonlinear mathematical model of the system. The controllers introduced have vast range to control the system. We compare Neural Adaptive controller results with feedbacks linearization, back stepping and PID controller. ? 2013 IEEE.

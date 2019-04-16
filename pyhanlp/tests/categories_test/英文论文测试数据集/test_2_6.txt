@@ -1,0 +1,6 @@
+**题目**
+Distributed state estimation for Lur'e systems in sensor networks with impulsive effects and intermittent measurements
+**关键字**
+Lur'e systems; distributed state estimation; Lyapunov function
+**摘要**
+This paper is concerned with the problem of distributed state estimation for Lur'e systems in sensor networks with impulsive effects and intermittent measurements. Based on a Lyapunov function method, sufficient conditions are presented which ensure all node estimators converging asymptotically. The gains of the estimators are obtained by solving certain linear matrix inequalities with some algebra constraints. Numerical examples are given to illustrate the effectiveness of the proposed estimation method.

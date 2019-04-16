@@ -1,0 +1,6 @@
+**题目**
+Rendering of unfalsified PID gain sets for parameter space control design
+**关键字**
+data-driven; PID control; parameter space control
+**摘要**
+In this paper, a new approach to the data-driven PID control design in parameter space is proposed. Namely, first, volume data of the PID gains that are falsified by a necessary condition for the maximum sensitivity constraint is calculated, and next it is visualized by volume rendering. Because of the recent development of parallel computation and GPU(graphics processing unit), rendering can be easily applied, and our main issue is how fast the volume data can be calculated by the parallel computation. We give an estimation method of the &#x00A3;2 gain using a filter bank from a finite length response data, and this method is used for the volume data calculation at ten-thousand grid points. Efficiency and accuracy of our algorithm are examined by numerical experiments.

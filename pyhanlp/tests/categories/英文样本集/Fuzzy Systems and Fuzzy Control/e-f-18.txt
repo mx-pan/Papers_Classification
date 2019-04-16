@@ -1,0 +1,6 @@
+**题目**
+Direct adaptive fuzzy control of a class of MIMO non-affine nonlinear systems
+**关键字**
+fuzzy systems,fuzzy control,adaptive control,MIMO non-affine nonlinear systems,global implicit function theorem
+**摘要**
+An adaptive fuzzy control approach is proposed for a class of multiple-input–multiple-output (MIMO) nonlinear systems with completely unknown non-affine functions. The global implicit function theorem is first used to prove the existence of an unknown ideal implicit controller that can achieve the control objectives. Within this scheme, fuzzy systems are employed the approximate the unknown ideal implicit controller, and robustifying control terms are used to compensate the approximation errors and external disturbances. The adjustable parameters of the used fuzzy systems are deduced from the stability analysis of the closed-loop system in the sense of Lyapunov. To show the efficiency of the proposed controllers, two simulation examples are presented.

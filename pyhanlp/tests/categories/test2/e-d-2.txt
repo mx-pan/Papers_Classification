@@ -1,0 +1,6 @@
+**题目**
+Subspace identification for data‐driven modeling and quality control of batch processes
+**关键字**
+control,process control,polymerization
+**摘要**
+In this work, we present a novel, data‐driven, quality modeling, and control approach for batch processes. Specifically, we adapt subspace identification methods for use with batch data to identify a state‐space model from available process measurements and input moves. We demonstrate that the resulting linear time‐invariant (LTI), dynamic, state‐space model is able to describe the transient behavior of finite duration batch processes. Next, we relate the terminal quality to the terminal value of the identified states. Finally, we apply the resulting model in a shrinking‐horizon, model predictive control scheme to directly control terminal product quality. The theoretical properties of the proposed approach are studied and compared to state‐of‐the‐art latent variable control approaches. The efficacy of the proposed approach is demonstrated through a simulation study of a batch polymethyl methacrylate polymerization reactor. Results for both disturbance rejection and set‐point changes (i.e., new quality grades) are demonstrated.

@@ -1,0 +1,6 @@
+**题目**
+Modeling identification and simulation of pneumatic actuator for VGT system
+**关键字**
+VNT system,Modeling,Pneumatic actuators,Identification.
+**摘要**
+Abstract(#br)This article is aimed at the physical modeling of a pneumatic actuator for the control of Variable Geometry Turbocharger (VGT) system. These actuators possess a characteristic hysteresis, which increases with the increment in the aerodynamic force acting on the vanes of the VGT. Modeling the aerodynamic force, through cartography between turbine pressure and vanes opening angle is presented. Hysteresis phenomenon has been elaborated using dynamic friction models. Different system parameters, such as spring constant, damping coefficient and friction parameters, have been identified through experiments. The coherence between experimental results and simulations has demonstrated the effectiveness of the proposed approach.

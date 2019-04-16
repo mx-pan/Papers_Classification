@@ -1,0 +1,6 @@
+**题目**
+Nonholonomic control of distance-based cyclic polygon formation
+**关键字**
+Nonholonomic control; Inter-agent; multi-agent
+**摘要**
+Inter-agent formation is the interesting issue and coped within previous literatures. We propose a control strategy based on inter-agent cyclic formulation of nonholonomic model. Graph is directed. Each agent maintains a desired distance with a neighbor agent. Under sliding control technique, sequence of control input forces configuration to equilibrium manifold. Unicycle-like model is used as nonholonomic agent model.

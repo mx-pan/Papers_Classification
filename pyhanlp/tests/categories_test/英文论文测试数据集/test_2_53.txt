@@ -1,0 +1,6 @@
+**题目**
+On the effect of additional input channels on the achievable performance of discrete-time control systems
+**关键字**
+MIMO; discrete-time; additional input channels
+**摘要**
+This paper deals with the quantification of performance bounds in multiple-input multiple-output (MIMO) control systems when energy-constrained input channels are added to the plant. We focus on stable, discrete-time, linear time-invariant (LTI), and right-invertible MIMO systems. The performance is quantified using the 2-norm and assuming step references, whilst the control input energy constraint is on the increments of the additional input signals. Our main result is a closed form expression that quantifies the improvement in performance that results as a consequence of the additional input channels. ? 2013 Elsevier Ltd. All rights reserved.

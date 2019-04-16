@@ -1,0 +1,6 @@
+**题目**
+A decentralized control algorithm based on the DC power flow model for avoiding cascaded failures in power networks
+**关键字**
+decentralized control; DC power flow model; closest neighbours; networks
+**摘要**
+A distributed random algorithm for controlling electrical power flow after a failure in (or attack on) a power transmission grid is proposed. The aim is to minimize load shedding and to avoid a cascaded failure in the network. The DC power flow model is used to simulate the power flow in the network. The algorithm is based only on the information about the closest neighbours of each node. A mathematically rigorous proof of convergence with probability 1 of the proposed algorithm is provided.

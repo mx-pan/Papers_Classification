@@ -1,0 +1,6 @@
+**题目**
+Robust stability analysis of simple systems controlled over communication networks
+**关键字**
+Stability analysis,Time-delay systems,Communication networks,Dual-locus diagram,Control-via-internet
+**摘要**
+Abstract(#br)There is increasing interest in controlling systems over communication networks. Using a simple method called dual-locus diagram, this communique proposes complete stability criteria for a mass-spring-damper system controlled over the network. The stability region is divided into a delay-dependent stability region and a delay-independent stability region, which offers a nice graphical view on the conservativeness of the delay-independent stability criteria.

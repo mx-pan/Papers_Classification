@@ -1,0 +1,6 @@
+**题目**
+Video-based facial expression recognition using histogram sequence of local Gabor binary patterns from three orthogonal planes
+**关键字**
+Video-based facial expression recognition; local Gabor binary patterns; three orthogonal planes; SVM
+**摘要**
+Video-based facial expression recognition has received significant attention in recent years due to its widespread applications. One key issue for video-based facial expression analysis in practice is how to extract dynamic features. In this paper, a novel approach is presented using histogram sequence of local Gabor binary patterns from three orthogonal planes (LGBP-TOP). In this approach, every facial expression sequence is firstly convolved with the multi-scale and multi-orientation Gabor filters to extract the Gabor Magnitude Sequences (GMSs). Then, we use local binary patterns from three orthogonal planes (LBP-TOP) on each GMS to further enhance the feature extraction. Finally, the facial expression sequence is modeled as a histogram sequence by concatenating the histogram pieces of all the local regions of all the LGBP-TOP maps. For recognition, Support Vector Machine (SVM) is exploited. Our experimental results on the extended Cohn-Kanade database (CK+) demonstrate that the proposed method has achieved the best results compared to other methods in recent years. 

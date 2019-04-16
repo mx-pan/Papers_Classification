@@ -1,0 +1,6 @@
+**题目**
+Distributed output feedback control of Markov jump multi-agent systems
+**关键字**
+Multi-agent system,Distributed control,Mean field approach,Markov jump system,Output feedback
+**摘要**
+Abstract(#br)In this paper, distributed output feedback control of Markov jump multi-agent systems (MASs) is investigated. Both dynamic equations and index functions of the MASs involved contain Markov jump parameters. The information available for each agent to design their controllers are only the noisy output and the jump parameters. By Markov jump optimal filtering theory and the mean field approach, distributed output feedback control laws are presented. Under some mild conditions, it is shown that the closed-loop system is uniformly stable and the distributed control is sub-optimal.

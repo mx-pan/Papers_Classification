@@ -1,0 +1,6 @@
+**题目**
+Sliding Mode-Like Fuzzy Logic Control With Adaptive Boundary Layer for Multiple-Variable Discrete Nonlinear Systems
+**关键字*
+Sliding mode control,chattering free,fuzzy logic system,adaptive
+**摘要**
+Abstract More serious chattering emerges in discrete systems of sliding mode control. The paper presents a sliding mode-like fuzzy logic control design, which eliminates the chattering, for a class of discrete nonlinear systems with multiple variables. First, the boundary layer is self-tuned on-line, and then, the chattering free is obtained. Consequently, the fuzzy logic control (FLC) is designed to approximate the sliding mode control (SMC) with boundary layer self-tuning. Finally, the performance of the robustness, chattering free, and adaption are verified by the simulation results.

@@ -1,0 +1,6 @@
+**题目**
+Self-tuning Dynamic Matrix Control of two-axis autopilot for small aeroplanes
+**关键字**
+Self-tuning conntollers; aerospace control; aerospace simulation
+**摘要**
+An easy-to-implement method of self-tuning of 2-axis autopilot parameters using Dynamic Matrix Control (DMC) is presented. Based on step responses caused by a hysteresis relay feedback from roll/pitch angles, the inner (angular velocity) loop controllers are designed. Applying the step responses of the inner loop, the same method is used to design the outer (roll/pitch angle) controllers. Then the airspeed/vertical-speed controller is designed by recording the step responses to changes of thrust and pitch angle using the multivariable (2x2) DMC controller design method. Finally the directional (heading) and altitude control can be achieved by a simple controller. The simulations of an extremely sensitive (in pitch) and marginally stable airplane demonstrate the applicability of the method and confirm that the proposed system can perform advanced functions, which surpasses conventional 2-axis autopilots commonly used in light airplanes or UAVs by far, without increasing the complexity of the controller part.

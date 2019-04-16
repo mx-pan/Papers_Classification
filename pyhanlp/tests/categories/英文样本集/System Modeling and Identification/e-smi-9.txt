@@ -1,0 +1,6 @@
+**题目**
+System identification approach for modeling and parameter estimation of power system elements
+**关键字**
+System identification,Parameter estimation,Modeling techniques.
+**摘要**
+Abstract(#br)This paper presents the application of system identification techniques in the modeling of power system elements. In particular, the structural identification and initialization requirements for identifying a network model from the high-frequency response data of a laboratory network winding model which depicts an air-core reactor are investigated. The objective of the study is to show the step-by-step use of the system identification approach in identifying models for power system elements.

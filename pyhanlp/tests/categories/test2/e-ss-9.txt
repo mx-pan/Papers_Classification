@@ -1,0 +1,7 @@
+**题目**
+Simulation and animation of sensor-driven robots
+**关键字**
+Artificial Intelligence,Computer Graphics,Computer Simulation,Computer Systems,Computer-Aided Design,Engineering,Evaluation Studies as Topic,Lasers,Robotics,Software,Systems Integration,User-Computer Interface.
+**摘要**
+Most simulation and animation systems utilized in robotics are concerned with simulation of the robot and its environment without simulation of sensors. These systems have difficulty in handling robots that utilize sensory feedback in their operation. In this paper, a new design of an environment for simulation, animation, and visualization of sensor-driven robots is presented. As sensor technology advances, increasing numbers of robots are equipped with various types of sophisticated sensors. The main goal of creating the visualization environment is to aid the automatic robot programming and off-line programming capabilities of sensor-driven robots. The software system will help the users visualize the motion and reaction of the sensor-driven robot under their control program. Therefore, the efficiency of the software development is increased, the reliability of the software and the operation safety of the robot are ensured, and the cost of new software development is reduced. Conventional computer-graphics-based robot simulation and animation software packages lack of capabilities for robot sensing simulation. This paper describes a system designed to overcome this deficiency.
+

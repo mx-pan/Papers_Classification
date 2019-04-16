@@ -1,0 +1,6 @@
+**题目**
+Active Control Of Oscillation Patterns In Nonlinear Dynamical Systems And Their Mathematical Modelling
+**关键字**
+Nonlinear dynamical system,oscillation control,MATLAB.
+**摘要**
+Abstract The article deals with the active control of oscillation patterns in nonlinear dynamical systems and its possible use. The purpose of the research is to prove the possibility of oscillations frequency control based on a change of value of singular perturbation parameter placed into a mathematical model of a nonlinear dynamical system at the highest derivative. This parameter is in singular perturbation theory often called small parameter, as ε → 0<sup>+</sup>. Oscillation frequency change caused by a different value of the parameter is verified by modelling the system in MATLAB.

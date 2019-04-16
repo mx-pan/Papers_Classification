@@ -1,0 +1,6 @@
+**题目**
+Robot Aided Passive Rehabilitation using Nonlinear Control Techniques
+**关键字**
+ETS-MARSE; trajectory tracking; passive rehabilitation; sliding mode control; computed torque control
+**摘要**
+This paper presents a robot aided passive arm movement therapeutic scheme. A seven DoFs robot, ETS-MARSE (motion assistive exoskeleton robot for superior extremity) was used for this purpose. It is an exoskeleton type wearable robot, which was designed corresponds to human upper-limb biomechanics, to provide movement assistance and rehabilitation to the individuals with upper limb dysfunction due to conditions such as stroke or spinal cord injuries. Considering the dynamic modeling of the exoskeleton which is nonlinear in nature, we have employed nonlinear control techniques (sliding mode and computed torque) to maneuver the exoskeleton. Experiments were carried out with healthy male human subjects where trajectories tracking in the form of passive rehabilitation exercises were performed.

@@ -1,0 +1,7 @@
+**题目**
+Active Noise Control Algorithm Based on a Neural Network and Nonlinear Input-Output System Identification Model
+**关键字**
+active noise control,neural networks,system identification,nonlinear phenomena.
+**摘要**
+Abstract The development of digital signal processors and the increase in their computing capabilities bring opportunities to employ algorithms with multiple variable parameters in active noise control systems. Of particular interest are the algorithms based on artificial neural networks. This paper presents an active noise control algorithm based on a neural network and a nonlinear input-output system identification model. The purpose of the algorithm is an active noise control system with a nonlinear primary path. The algorithm uses the NARMAX system identification model. The neural network employed in the proposed algorithm is a multilayer perceptron. The error backpropagation rule with adaptive learning rate is employed to update the weight of the neural network. The performance of the proposed algorithm has been tested by numerical simulations. Results for narrow-band input signals and nonlinear primary path are presented below.
+

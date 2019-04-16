@@ -1,0 +1,6 @@
+**题目**
+On stabilization of continuous-time and discrete-time symmetric bilinear systems by constant controls
+**关键字**
+Bilinear systems; Constant controls; Stabilization
+**摘要**
+In this paper, the stabilization problems of two- dimensional symmetric bilinear systems by constant controls are considered. Both the continuous-time case and the discrete- time case are studied and necessary and sufficient conditions for stabilization of the systems are presented. It is shown that if the control is multiple then the continuous-time system is stabilizable if and only if its discrete-time counterpart is stabilizable.

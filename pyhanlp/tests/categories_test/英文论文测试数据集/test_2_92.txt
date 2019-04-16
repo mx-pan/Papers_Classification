@@ -1,0 +1,6 @@
+**题目**
+Robust smoothing for discrete-time uncertain nonlinear systems
+**关键字**
+discrete-time; nonlinear systems; Robust smoothing; filter
+**摘要**
+This paper derives recursion equations for a robust smoothing problem for a class of nonlinear systems with uncertainties in modeling and exogenous noise sources. The systems considered operate in discrete-time and the uncertainties are modeled in terms of a sum quadratic constraint. The robust smoothing problem is solved in terms of a forward-time and a reverse-time filter. Both these filters are formulated in terms of set-valued state estimators and are recast into subsidiary optimal control problems. These optimal control problems are described in terms of discrete-time Hamilton-Jacobi-Bellman equations, whose approximate solutions lead to recursive Riccati difference equations, filter state equations, and level shift scalar equations for the forward-time and the reverse-time filters.

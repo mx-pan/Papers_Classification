@@ -1,0 +1,6 @@
+**题目**
+FRIT and RLS-based online controller tuning and its experimental validation
+**关键字**
+FRIT; RLS; online controller; parameter tuning method
+**摘要**
+This paper proposes an online type of controller parameter tuning method by modifying the standard fictitious reference iterative tuning (FRIT) method and by utilizing the so-called recursive least-squares (RLS) algorithm, which can cope with variation of plant characteristics adaptively. As used in many applications, the RLS algorithm with a forgetting factor is also applied to give more weight to more recent data, which is appropriate for adaptive controller tuning. Moreover, we extend the proposed method to online tuning of the feedforward controller of a two-degree-of-freedom control system. Finally, experimental results are provided to demonstrate the effectiveness of the proposed FRIT and RLS-based online controller tuning method.

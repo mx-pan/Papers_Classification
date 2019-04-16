@@ -1,0 +1,6 @@
+**题目**
+A method for performance improvement of PID control by dual-input describing function (DIDF) method
+**关键字**
+PID controller tuning; Dual-Input Describing Functions
+**摘要**
+Though various techniques have been studied as a way of adjusting parameters of PID controllers, no perfect method of determining parameters is available to date. This paper proposes a new method for enhancing performance of PID controllers by using the characteristics of dual-input describing function (DIDF). In other words, if nonlinear elements with two inputs (DIDF) are connected in series to the plant, the critical point (-1+j0) for Nyquist stability theory can be moved to a position arbitrarily selected on the complex plane by determining necessary coefficients of the DIDF appropriately. This makes the application of the existing conventional PID parameter tuning methods a lot easier, and stability and robustness of the system are improved simultaneously due to the DIDF inserted.

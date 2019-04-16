@@ -1,0 +1,6 @@
+**题目**
+A new clustering technique for the identification of PWARX hybrid models
+**关键字**
+clustering technique; PWARX hybrid models
+**摘要**
+This paper addresses the problem of clustering-based procedure for the identification of PWARX models. It consists in estimating both the parameter vector of each submodel and the coefficients of each partition. It exploits three main techniques which are clustering, linear identification and pattern recognition. The performance of this approach depends on the used clustering technique. However, most of existing methods are based on classical approaches which are sensible to poor initialization and suffer from the presence of outliers. To overcome these problems, we propose to exploit the Chiu's clustering technique. Simulation results are presented to illustrate the performance of the proposed method. ? 2013 IEEE.

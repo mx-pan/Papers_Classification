@@ -1,0 +1,6 @@
+**题目**
+Input-to-state stability for switched nonlinear time-delay systems
+**关键字**
+input-to-state stability; nonlinear time-delay systems; merging switching signal; Lyapunov-Krasovskii functional method
+**摘要**
+This paper investigates the problem of the input-to-state stability (ISS) for a class of switched nonlinear time-delay systems, in which time delays are involved in both the state and the switching signal of the controller. Because of the presence of the switching delay, the switching information available to the controller is a delayed information of the system, and then the closed-loop system will have two asynchronous switching signals. To study these two asynchronous switching signals in a unified framework, we adopt the technique of the merging switching signal. Based on a piecewise Lyapunov-Krasovskii functional method, some sufficient conditions are explicitly given to guarantee ISS of the switched nonlinear time-delay system under average dwell time scheme.

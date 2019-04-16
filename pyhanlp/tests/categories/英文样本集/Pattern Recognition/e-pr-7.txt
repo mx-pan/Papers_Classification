@@ -1,0 +1,6 @@
+**题目**
+Analysis for Protein Glycosylation of Pattern Recognition Receptors in Plants
+**关键字**
+Arabidopsis,Arabidopsis Proteins,Cell Membrane,Endoplasmic Reticulum,Glycosylation,Immunoblotting,Protein Domains,Receptors, Pattern Recognition.
+**摘要**
+Recognition of molecules typical of microbes or aberrant cellular states, termed microbe- or danger-associated molecular patterns (MAMPs/DAMPs), respectively, provides an important step in plant and animal innate immunity. In plants, pattern recognition receptors (PRRs) identified to date are limited to membrane-associated proteins, of which the majority has an extracellular leucine-rich repeat (LRR) or lysine-motif (LysM) domain. These PRRs undergo quality control (QC) in the Endoplasmic Reticulum (ER) that is dependent on Asn (N)-linked glycosylation (Glc<sub>3</sub>Man<sub>9</sub>GlcNAc<sub>2</sub> conjugation) of their extracellular domain. In Arabidopsis, genetic studies have revealed that a subset of these PRRs require an intact N-glycosylation pathway in the ER for their biogenesis and function. Here, we describe methods for immunoblot-based detection of protein glycosylation states in plants.

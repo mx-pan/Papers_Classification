@@ -1,0 +1,6 @@
+**题目**
+A Lyapunov Method Based Multiple-Model Adaptive Actuator Failure Compensation Scheme for Control of Near-Space Vehicles
+**关键字**
+Lyapunov Method; Multiple-Model; Near-Space Vehicles; gradient algorithm; 
+**摘要**
+In a recent paper, a multiple-model adaptive actuator failure compensation control scheme is proposed for the control of a near-space vehicle, using the gradient algorithm, to achieve fast and accurate actuator failures compensation. In this paper, a new multiple-model adaptive actuator failure compensation control scheme is developed for nonlinear systems motivated from a near-space vehicle control application. Such a design also employs multiple controllers based on multiple- model failure estimations and a control switching mechanism, based on finding the minimal performance cost index, to select the most appropriate controller. Different from [7], each estimator is designed based on the Lyapunov method, which ensures the system stability and desired tracking properties. Moreover, a smooth control are introduced to the multiple-model control system frame to avoid the discontinuity problem from the control switching, to widen the application of such design. Simulation results for a near-space vehicle dynamic model are presented to show the desired failure compensation performance.

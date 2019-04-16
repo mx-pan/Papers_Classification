@@ -1,0 +1,6 @@
+**题目**
+Research of Power Communication Network System’s Reliability Based on Cloud Model and Fuzzy Petri Nets
+**关键字**
+Reliability,Fuzzy Petri Net,Normal Cloud,Power Communications Network System
+**摘要**
+For the varied circumstances in the evaluation of complex power communication systems, this paper proposes a reliable evaluation method based on normal cloud model and fuzzy Petri net. The simulation results show that the model in this paper can effectively evaluate the system reliability when compared with the other models for the same factor.

@@ -1,0 +1,6 @@
+**题目**
+A novel adaptive order/parameter identification method for variable order systems application in viscoelastic soft tissue modeling
+**关键字**
+Adaptive identification,Order identification,Parameter estimation,Variable order systems,Soft tissue modeling.
+**摘要**
+Abstract(#br)This paper presents an adaptive system identification approach to identify the order and parameters of a specific type of variable order systems, which, as a motivating example, describes the stress-strain relation of viscoelastic materials. First, the concept of non-integer order modeling will be introduced. Next, the proposed order/parameter identification approach will be presented. Afterwards, a simulation study is performed to validate the identification approach. Finally, the method will be applied on real data gathered from an experimental study for further validation.

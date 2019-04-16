@@ -1,0 +1,6 @@
+**题目**
+Position feedback pinning control for nonlinear multi-agent systems
+**关键字**
+Cooperative control; Consensus; Nonlinear systems; Output feedback
+**摘要**
+This paper addresses a velocity consensus control problem for multi-agent systems in a complicated scenario where the agent velocities are not measurable and the agent dynamics are intrinsically nonlinear. It is proved that the proposed position feedback controller with sufficiently large but explicitly designed gains is able to deal with system nonlinearities when the region of attraction is semi-globally specified. The results are also verified in numerical simulation.

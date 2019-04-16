@@ -1,0 +1,6 @@
+**题目**
+Reducing the Impact of Uncertainties in Networked Control Systems Using Type-2 Fuzzy Logic
+**关键字*
+networked control systems,packet loss,time delay,true time,type-2 fuzzy logic
+**摘要**
+Abstract The networked control systems (NCS) have grown in popularity in recent years. Despite their advantages over the traditional control schemes, some of their drawbacks emerged as well (time delays, packet losses). There are several ways of dealing with the time delays and packet losses in NCS, but only a few authors have ever used type-2 fuzzy controllers for this purpose to our knowledge. This paper is aimed at dealing with the negative effects that occur in NCS, by using type-2 fuzzy control systems. It is presented that this approach can be successfully used to decrease the effects of time delays and packet losses. A type-2 fuzzy controller has been designed and compared to a type-1 fuzzy controller. The intervals of type-2 fuzzy controller were optimized via genetic algorithm.

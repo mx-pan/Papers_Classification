@@ -1,0 +1,6 @@
+**题目**
+Shop-floor controller based on RT-middleware technology
+**关键字**
+CNC; RT middleware; SCARA; robot controller
+**摘要**
+Nowadays the flexible configuration of manufacturing cells becomes to an important requirement especially at small and medium sized companies. This method can make the production fast and effective at small series or frequent manufacturing changes. The shop-floor control method-presented in this paper-offers a solution for the facing problem of fast and easy reconfiguration. The hardware of the controller designed modular with software components for online configuration. This solution allows sensor integration on different levels for every part of the manufacturing cell. With unified programming language and the machine specific controllers (post-processing) the cells can be defined easily by different types of human-machine interaction. The shop-floor control architecture is implemented and validated on an Adept SCARA robot. The robot is driven by standalone, low-level, interchangeable, software and hardware components. ? 2013 IEEE.

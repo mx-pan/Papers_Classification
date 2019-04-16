@@ -1,0 +1,7 @@
+**题目**
+Simulation and Evaluation of Solar Thermal Combi Systems with Direct Integration of Solar Heat into the Space Heating Loop
+**关键字**
+System simulation,solar thermal combi system,direct integration,heat pump,buffer storage,floor heating,thermal activation.
+**摘要**
+Abstract(#br)Usually, solar heat in combi systems is used via a buffer storage. In contrast to that, the solar collectors may be connected directly to the space heating circuit in order to store the heat in the building itself. Such a direct solar integration is investigated within system simulations for different layouts and heating elements. The simulations show significant reductions in the final energy demand as well as an increasing solar yield due to less thermal losses of the storage tank compared to the usual solution with one buffer storage. A prototype of one of the investigated heating concepts within a single family house proofs the functionality of the system concept and the high solar yield, particularly at low radiation levels. Since only a few manufacturers provide such system solutions with a direct solar integration, the results may have an important impact on the future development of combi systems.
+

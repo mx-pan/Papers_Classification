@@ -1,0 +1,6 @@
+**题目**
+Second-order leader-following consensus of multi-agent systems with nonlinear dynamics and time delay via periodically intermittent pinning control
+**关键字**
+Second-order consensus, multi-agent systems, time delay, pinning control, intermittent control
+**摘要**
+This paper investigates the second-order leader-following consensus of multi-agent systems with nonlinear dy- namics and time delay by virtue of the periodically intermittent pinning control. All member agents and the virtual leader share the same nonlinear dynamics related to both the position information and the velocity information. Based on Lyapunov stability theory, some useful criteria are obtained to drive all the agents to achieve consensus. Finally, a numerical example is presented to illustrate the theoretical results.

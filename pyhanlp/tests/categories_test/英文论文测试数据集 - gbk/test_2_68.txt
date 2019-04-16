@@ -1,0 +1,6 @@
+**题目**
+Intelligent systems based solutions for the kinematics problem of the industrial robot arms
+**关键字**
+ANFIS; Artificial Neural Networks; Redundancy; Robot Arm; Singularity; Support Vector Machine; Trajectory Tracking
+**摘要**
+In this paper, three intelligent system methods namely Artificial Neural Network (ANN), Support Vector Machine (SVM) and Adaptive Neuro Fuzzy Inference Systems (ANFIS), are implemented to solve the inverse kinematics problem of the industrial robot arms. The main advantages of the intelligent system based solutions in the robot kinematics are that they can be easily implemented in analysis of complex mechanisms and their solutions do not suffer by the singularity that is one of the fundamental problems of inverse kinematics. The screw theory and quaternion algebra based kinematic model is used to improve the model efficiency by decreasing the computational complexity and load. The kinematics problem of the Staubli TX-60L industrial robot arm is analyzed by using the proposed intelligent system based solutions and simulation results are given.

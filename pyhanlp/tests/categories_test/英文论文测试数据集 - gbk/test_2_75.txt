@@ -1,0 +1,6 @@
+**题目**
+Controllability of higher order switched boolean control networks
+**关键字**
+boolean control networks; semi-tensor product
+**摘要**
+This paper investigates controllability of higher order switched Boolean control networks (SBCNs). First, by using semi-tensor product (STP) method, two algebraic forms of higher order SBCNs are derived. And a necessary and sufficient condition of controllability for higher order SBCNs is obtained. Then based on the second algebraic form, the corresponding control and switching-law which drive a point to a given reachable point are designed. Finally, an illustrative example is given to show the validity of the main result.

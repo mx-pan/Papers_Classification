@@ -1,0 +1,6 @@
+**题目**
+Adaptation-and-collision detection scheme for safe physical human-robot interaction
+**关键字**
+Adaptive control; Collision detection; Collision safety
+**摘要**
+Human-robot collisions are unavoidable during a human-robot interaction. Thus, a number of collision detection algorithms have been proposed to ensure human safety during such an occasion. However, collision detection algorithms are usually model-based, requiring an accurate model of the robot. The errors in the model can lead to the malfunction of the algorithms. In this study, we propose an adaptation and collision detection scheme to improve the sensitivity of the collision detection algorithm. Performing adaptation prior to collision detection will effectively minimize the model uncertainty of the robot. This minimization will allow sensitive, reliable collision detection. By using torque filtering, adaptation and collision detection can be done without the need for the acceleration estimation. The performance of the proposed scheme is demonstrated by various experiments.

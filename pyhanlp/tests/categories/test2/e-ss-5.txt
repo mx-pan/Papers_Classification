@@ -1,0 +1,6 @@
+**题目**
+Integrating case based and rule based reasoning in a decision support system: evaluation with simulated patients
+**关键字**
+Artificial Intelligence,Decision Support Systems, Clinical,Decision Support Techniques,Diabetes Mellitus, Type 1,Evaluation Studies as Topic,Humans,Internet,Patient Simulation,Systems Integration,Therapy, Computer-Assisted.
+**摘要**
+We present a Web-based knowledge management and decision support system for Type I Diabetes patients' care. The tool exploits the integration of two methodologies, Case Based Reasoning and Rule Based Reasoning, and supports physicians in the definition of therapeutic strategies. Such a work is being integrated in the EU funded T-IDDM project architecture. In this paper we report a first evaluation obtained on simulated patients.

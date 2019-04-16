@@ -1,0 +1,6 @@
+**题目**
+Adaptive optimal control algorithm for maturing energy management strategy in fuel-cell/Li-ion-capacitor hybrid electric vehicles
+**关键字**
+adaptive optimal control algorithm;energy management; fuel cell hybrid power system; electric vehicle
+**摘要**
+Energy management in a fuel cell/Li-ion capacitor hybrid vehicle needs to determine appropriate power split among the load and distinct power sources in order to minimize fuel consumption and power fluctuations in the fuel cell system while supplying adequate power to the load, and the state-of-charge of the Li-ion capacitor maintained at the permissible levels. This paper formulates this case as a problem of fuel minimization subject to mixed equality and inequality constraints imposed by the dynamics and operational limitations of the fuel cell and Li- ion capacitor. Then the adaptive optimal control algorithm is proposed to automatically draw out the best energy management strategy via reinforcement learning and sequential optimization in standard driving cycles. The results of testing the algorithm in a fuel cell/Li-ion capacitor hybrid sedan verifies the efficacy of the proposed design in energy saving.

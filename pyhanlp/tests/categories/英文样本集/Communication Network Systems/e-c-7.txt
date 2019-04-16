@@ -1,0 +1,6 @@
+**题目**
+Network access protocol for hard real-time communication systems
+**关键字**
+real-time communication systems,network access protocol,carrier sense multiple access,time-constrained messages
+**摘要**
+Abstract(#br)Distributed hard real-time systems are characterized by communication messages associated with timing constraints, typically in the form of deadlines. A message should be received at the destination before its deadline expires. Carrier sense multiple access with collision detection (CSMA/CD) appears to be one of the most common communication network access schemes that can be used in distributed hard real-time systems. In this paper, we propose a new real-time network access protocol which is based on the CSMA/CD scheme. The protocol classifies the messages into two classes as ‘critical’ and ‘noncritical’ messages. The messages close to their deadlines are considered to be critical. A critical message is given the right to access the network by preempting a noncritical message in transmission. Extensive simulation experiments have been conducted to evaluate the performance of the protocol. It is shown that the protocol can provide considerable improvement over the virtual time CSMA/CD protocol proposed for hard real-time communication by Zhao et al . 1 .

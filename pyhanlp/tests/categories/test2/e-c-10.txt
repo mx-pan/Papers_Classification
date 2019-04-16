@@ -1,0 +1,6 @@
+**题目**
+Network system: the integrated picture archiving and communication system with the hospital information system
+**关键字**
+Computer Communication Networks,Hospital Information Systems,Radiology Information Systems
+**摘要**
+We describe the outline of Hokkaido University picture archiving and communication system (HU-PACS) and its network functions. HU-PACS processes 0.5 Gbytes of images daily through 10 acquisition devices. Functional integration of hospital information system (HIS) and PACS has been implemented. The HU-PACS can access common data base with HIS. Multi-image data-base systems provide fast throughput of image retrieval. The system is composed of 4 modules: (1) 2 image data-base systems (IDS), (2) 1 image management system (IMS), (3) image display terminals (IDT), and (4) 8 image acquisition nodes interfaced to 10 modalities and 1 film scanner. These 4 modules are connected by branch and loop type local area networks (LAN). HU-PACS has functions other than basic PACS functions. Images in optical disk library (ODL) are loaded onto magnetic disks (MD) in advance according to patient booking information, the images expected to be viewed are transferred to the local storage automatically, and the desired images can be pre-downloaded into local storage by instruction through HIS terminals.

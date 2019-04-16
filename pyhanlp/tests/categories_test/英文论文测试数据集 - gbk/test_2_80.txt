@@ -1,0 +1,6 @@
+**题目**
+Influence of frictions on gait optimization of a biped robot with an anthropomorphic knee
+**关键字**
+biped robot; anthropomorphic knee; gait trajectory
+**摘要**
+This paper presents the energy consumption of a biped robot with a new modelled structure of knees which is called rolling knee (RK). The dynamic model, the actuators and the friction coefficients of the gear box are known. The optimal energy consumption can also be calculated. The first part of the paper is to validate the new kinematic knee on a biped robot by comparing the energy consumption during a walking step of the identical biped but with revolute joint knees . The cyclic gait is given by a succession of Single Support Phase (SSP) followed by an impact. The gait trajectories are parameterized by cubic spline functions. The energetic criterion is minimized through optimiza- tion while using the simplex algorithm and Lagrange penalty functions to meet the constraints of stability and deflection of the mobile foot. An analysis of the friction coefficients is done by simulation to compare the human characteristics to the robot with RK. The simulation results show an energy consumption reduction through the biped with rolling knee configuration. The influence of friction coefficients shows the energy consumption of biped robot is close to that of the human.

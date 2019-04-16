@@ -1,0 +1,6 @@
+**题目**
+Robust state estimation via the descriptor Kalman filtering method
+**关键字**
+state estimation; descriptor Kalman filter
+**摘要**
+This paper considers robust state estimation problem for uncertain descriptor systems subject to bounded uncertainties on the basis of the descriptor Kalman filtering (DKF) method. A new robust filtering framework (RFF), which divides the uncertain augmented output equation (AOE) into two parts: one is the nominal part and the other is the uncertain part, is proposed to facilitate the robust filter design. In the sequel, a robust descriptor Kalman filter (RDKF) is derived based on the proposed RFF and the DKF method. Some simplified versions of the RDKF are also proposed for special cases. The motivation of this research is to show that the AOE reformulation imbedded in the recursive ML estimation method serves as a useful mean to yield the dedicated robust filters. An extension of the proposed result to solve state estimation for uncertain descriptor systems with unknown inputs is also provided.

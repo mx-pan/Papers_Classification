@@ -1,0 +1,6 @@
+**题目**
+New Digital Architecture of CNN for Pattern Recognition
+**关键字**
+CNN,digital circuit,area consumption,pattern recognition.
+**摘要**
+New Digital Architecture of CNN for Pattern Recognition The paper deals with the design of a new digital CNN (Cellular Neural Network) architecture for pattern recognition. The main parameters of the new design were the area consumption of the chip and the speed of calculation in one iteration. The CNN was designed as a digital synchronous circuit. The largest area of the chip belongs to the multiplication unit. In the new architecture we replaced the parallel multiplication unit by a simple AND gate performing serial multiplication. The natural property of this method of multiplication is rounding. We verified some basic properties of the proposed CNN such as edge detection, filling of the edges and noise removing. At the end we compared the designed network with other two CNNs. The new architecture allows to save till 86% gates in comparison with CNN with parallel multipliers.

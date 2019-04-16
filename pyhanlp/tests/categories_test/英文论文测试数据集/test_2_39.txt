@@ -1,0 +1,6 @@
+**题目**
+Approximate solutions to the Hamilton-Jacobi equations for generating functions: The general cost function case
+**关键字**
+Hamilton-Jacobi equations; general cost function; nonlinear optimal control
+**摘要**
+Recently, the method based on generating functions is proposed for nonlinear optimal control problems. For a finite time optimal control problem with given boundary condition, once a generating function for a fixed boundary condition is obtained, any optimal trajectory of the same system for different boundary conditions can be generated easily. An algorithm to compute an approximate solution to the Hamilton-Jacobi equation with respect to the generating function for a nonlinear optimal control problem is developed in this paper. Numerical examples illustrate the effectiveness of the proposed method.

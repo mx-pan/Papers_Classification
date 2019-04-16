@@ -1,0 +1,6 @@
+**题目**
+Mathematical model of group robots
+**关键字**
+group robotics; Brownian motion; distribution function; energy disspation; collision among robots
+**摘要**
+We have so far developed continuum mechanical simulation methods of group robots. Taking Hamiltonian with specified exponential function of time has allowed us to deal with motion of robots with friction also in canonical equation framework. We examine in this article results calculated by our continuum mechanical methods. We especially note the presence of collision among robots and dependence of calculation on number of robots. Also we try to make an object follow a required path.

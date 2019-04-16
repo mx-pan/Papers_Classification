@@ -1,0 +1,6 @@
+**题目**
+Dynamical average consensus in networked linear multi-agent systems with communication delays
+**关键字**
+dynamical average consensus; multi-agent systems; protocol
+**摘要**
+In this paper, dynamical average consensus problem is studied for the networked identical linear multi-agent systems. A double coupling dynamical consensus protocol is proposed which is composed of the feedback of the protocol variables and the state variables. The protocol updates its information according to its own protocol communication topology which may be different from the state communication topology of the agents, and both of these two communication topologies are assumed to be balanced digraphs. Firstly, double topology protocol is analyzed for the system without communication delays. Then the protocol is extended to the case with time-varying delays. It is proved that all the nodes in the network can achieve dynamical average consensus asymptotically for appropriate communication delays. Numerical examples are given in the end of the paper to demonstrate the effectiveness of the theoretical results.

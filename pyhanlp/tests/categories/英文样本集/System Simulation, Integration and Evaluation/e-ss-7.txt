@@ -1,0 +1,7 @@
+**题目**
+Potential energy savings and greenhouse gases (GHGs) emissions reduction strategy for natural gas liquid (NGL) recovery: Process simulation and economic evaluation
+**关键字**
+Natural gas liquid (NGL),Process simulation,Economic evaluation,GHG reduction,Heat integration,Decision-making,Process systems engineering (PSE).
+**摘要**
+Abstract(#br)Recovery of sales gas and natural gas liquid (NGL) is characterized by its high energy consumption and significant environmental impact. This study explores the effect of design alternatives for NGL recovery on economic, energy, and environmental metrics. Focus is given to the turbo-expanding separation method owing to its wide applicability and potential for improvements. The primary configurations of turbo-expanding systems were simulated using ASPEN HYSYS. The simulation results included mass and energy balances, unit sizing, and sensitivity analyses using what-if scenarios to improve the design of the base configuration. Other ASPENTech products, such as the ASPEN Process Economic Analyzer and ASPEN Energy Analyzer were utilized to carry out an economic evaluation and optimization of utilities. To illustrate the value of the proposed approach, a case study was analysed for the assessment of various design alternatives to process 84,000 kg/h (5000 kmol/h) of natural gas while accounting for and reconciling the economic, energy, and environmental objectives.
+

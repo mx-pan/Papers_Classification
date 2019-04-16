@@ -1,0 +1,6 @@
+**题目**
+Control Design of Nonlinear Systems Using Fuzzy Model and Genetic Algorithm
+**关键字**
+Fuzzy Control,Fuzzy Systems,Fuzzy Models,Genetic Algorithms,Stability Analysis,Nonlinear Systems,Multivariable Control Systems
+**摘要**
+Abstract(#br)A control design methodology for stabilization of a class of nonlinear systems is presented. The systems are identified in the form of a fuzzy model and its structure is a fuzzy aggregation of a set of local linear models. The stability condition of the fuzzy dynamic model is determined by using the vector Lyapunov function approach. A parameter optimization algorithm is proposed to construct a set of local linear control laws for the fuzzy systems by implementing the modified Genetic Algorithm. The performance of the fuzzy model based control technique is illustrated by a simulation example.

@@ -1,0 +1,6 @@
+**题目**
+Velocity Estimation and Control of 3-DOF Lab Helicopter Based on Optical Flow
+**关键字**
+Optical flow; Vision-based Control; LQR Control; 3-DOF Helicopter
+**摘要**
+This paper presents an angular velocity estimation method based on optical flow to address the hovering and angle tracking control problem for a three degree-of-freedom (3-DOF) lab helicopter. An analytical expression of the travel angular velocity is deduced based on optical flow. Then, a controller consisting of a feedforward controller and a linear quadratic regulation (LQR) state feedback controller is designed. Experiment results on the lab helicopter demonstrate the validity of the angular velocity estimation method and the LQR control strategy.

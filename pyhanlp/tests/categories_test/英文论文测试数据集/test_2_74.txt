@@ -1,0 +1,6 @@
+**题目**
+The effect of measurement for time synchronization error in the tightly coupled GPS/INS integration
+**关键字**
+GPS; INS; tightly coupled GPS/INS integration; time synchronization error
+**摘要**
+The performance of tightly coupled GPS/INS integration becomes worse if the time synchronization error occurs between the GPS receiver and INS(Inertial Navigation System). In this paper the effect of measurement due to time synchronization error is investigated for tightly coupled GPS/INS integration. Two kinds of measurement is used; one is pseudorange only, and the other is both pseudorange and pseudorange rate.

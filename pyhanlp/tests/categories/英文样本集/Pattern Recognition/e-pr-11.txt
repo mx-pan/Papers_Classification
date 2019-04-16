@@ -1,0 +1,6 @@
+**题目**
+From Chaos to Harmony: Responses and Signaling upon Microbial Pattern Recognition
+**关键字**
+Plant Diseases,Plant Immunity,Plants,Receptors, Pattern Recognition,Signal Transduction.
+**摘要**
+Pathogen- or microbe-associated molecular patterns (PAMPs/MAMPs) are detected as nonself by host pattern recognition receptors (PRRs) and activate pattern-triggered immunity (PTI). Microbial invasions often trigger the production of host-derived endogenous signals referred to as danger- or damage-associated molecular patterns (DAMPs), which are also perceived by PRRs to modulate PTI responses. Collectively, PTI contributes to host defense against infections by a broad range of pathogens. Remarkable progress has been made toward demonstrating the cellular and physiological responses upon pattern recognition, elucidating the molecular, biochemical, and genetic mechanisms of PRR activation, and dissecting the complex signaling networks that orchestrate PTI responses. In this review, we present an update on the current understanding of how plants recognize and respond to nonself patterns, a process from which the seemingly chaotic responses form into a harmonic defense.

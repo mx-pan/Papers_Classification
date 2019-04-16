@@ -1,0 +1,6 @@
+**题目**
+A frequency-based method for complete identification of some types of wiener-type plants based on relay feedback
+**关键字**
+Wiener-type; closed-loop; identification; nonlinear; relay feedback
+**摘要**
+This paper proposes a new closed loop frequency based method for a parametric identification of some types of Wiener-type nonlinear plants. It provides a parametric model of the linear part of the plant, and a point by point relationship between input and output of the nonlinear part of the plant. Two approaches are proposed for the identification of the nonlinear part. The first approach is slower, but it does not require any additional equipment expect the relay. The second approach is much faster, but it requires some additional equipment.

@@ -1,0 +1,6 @@
+**题目**
+Event-trigged control for discrete-time multi-agent networks
+**关键字**
+Multi-agent networks, consensus, event-triggered control, time delay
+**摘要**
+In this paper, a new control strategy was proposed to deal with the discrete-time multi-agent consensus problem. Two types of protocols are discussed in this paper: i) networks of single-integrators without delay under centralized event-triggered control and ii) networks of single-integrators with delay under distributed event-triggered control. For each consensus protocol, we prove that the multi-agent network will achieve consensus asymptotically. Numerical examples are provided to demonstrate the effectiveness of the obtained theoretical results. ? 2013 IEEE.

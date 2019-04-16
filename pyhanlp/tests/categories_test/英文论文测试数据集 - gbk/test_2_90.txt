@@ -1,0 +1,6 @@
+**题目**
+A unified framework for state estimation of nonlinear stochastic systems with unknown inputs
+**关键字**
+state estimation; nonlinear stochastic systems; unknown inputs
+**摘要**
+This paper considers the unknown input filtering problem of nonlinear stochastic systems with arbitrary unknown inputs. It is known that the celebrated extended Kalman filter (EKF) may have poor performance in solving this problem due to the lack of the true dynamics of the unknown input. A possible remedy to improve the performance is to apply an EKF-like nonlinear version of the recently developed ERTSF (NERTSF), which however may only yield a specific linear combination of the unknown input vector. In this paper, an unknown-input decoupled nonlinear estimation framework is proposed, through which specific derivative-based and -free estimators are derived to provide both the estimable and unestimable unknown input estimates. Applications to rederive the existing literature results are provided to illustrate the usefulness of the proposed results.

@@ -1,0 +1,6 @@
+**题目**
+Sliding Mode Controller Design for Spacecraft with Manipulator
+**关键字**
+sliding mode controller; uncertain parameters; spacecraft
+**摘要**
+In this paper, we consider a sliding mode controller for the spacecraft which has a manipulator. The developed controller controls the pose of spacecraft and the position of end-effector. It is assumed that the joint value, the position of end-effector and the pose of spacecraft can be measured, but there are uncertainties in the kinematic and dynamic parameters. The controller also estimates uncertain parameters. With the help of Lyapunov stability analysis, we show that the proposed control approach ensures stability. Simulation results are included to illustrate the theoretical results.

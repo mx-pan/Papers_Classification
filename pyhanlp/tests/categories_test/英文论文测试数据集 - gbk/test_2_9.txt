@@ -1,0 +1,6 @@
+**题目**
+A new method based on the Polytopic Linear Differential Inclusion for the nonlinear filter
+**关键字**
+nonlinear filter; EKF; Polytopic Linear Differential Inclusion
+**摘要**
+This paper describes a new nonlinear filter for the nonlinear system, motivated by the the deficiencies of the complexity and large calculation number in the general nonlinear filter. The new filter is performed in three stages: First, the predicted state quantities of the nonlinear system are obtained by the prediction equation of the EKF. Then, the estimation error system is represented via an uncertain polytopic linear model, on the bias of which, the rectification equations with constant coefficients for the predicted errors are designed, without the need to evaluate the Jacobian matrixes on line. Finally, the state estimates are given through updating the predictions by the rectified quantities. The main novelty of the paper is the application of the Polytopic Linear Differential Inclusion in the nonlinear system, leading to the simplified design of the nonlinear filter and the improved real time performance of the new filter than the EKF, though the accuracy is a little decline. Its effectiveness is demonstrated by using the statistics result of the calculation number for the filters and an example of application in the attitude estimation system.

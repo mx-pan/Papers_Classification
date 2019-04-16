@@ -1,0 +1,6 @@
+**题目**
+H ∞ output feedback control for fuzzy systems with immeasurable premise variables: Discrete-time case
+**关键字*
+Fuzzy control,Takagi–Sugeno fuzzy systems,Output feedback control,Premise variables,H ∞ disturbance attenuation,Uncertain systems,Robust control
+**摘要**
+Abstract(#br)This paper discusses H ∞ output feedback control of discrete-time Takagi–Sugeno fuzzy systems with immeasurable premise variables. When we consider the output feedback control of Takagi–Sugeno fuzzy systems, the selection of premise variables plays an important role. If the premise variable is the state of the system, then a fuzzy system describes a wide class of nonlinear systems. However, the state is not measurable in the output feedback control problem. In this case, a control design of the underlying nonlinear system based on parallel distributed compensation is infeasible because a controller depends on the immeasurable state variable. In this paper, we introduce a new method to treat fuzzy systems with immeasurable premise variables and consider a design method of H ∞ output feedback control problem. We formulate this fuzzy control problem as a robust H ∞ control of an uncertain system. Numerical examples are given to illustrate our methods.

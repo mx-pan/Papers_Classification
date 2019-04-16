@@ -1,0 +1,6 @@
+**题目**
+Control of soccer robots using behaviour trees
+**关键字**
+Behaviour trees; robot navigation; path finding
+**摘要**
+In the paper a novel behaviour tree based control used in decision making processes of robot soccer is proposed. Decision Making (DM) is a basic block of robot that analyses the current state of world model and makes decision about new positions of robots. Proposed behaviour tree (BT) has high and low level behaviours and its nodes are operating using certain behaviour rules given in the paper. High level behaviours are implemented using low level behaviours. The new behaviours of soccer robots are designed using tree structure. The use of BT approach allows to model complicated situations easily that show advantages of this technique over finite state machines widely used in robot control. After defining behaviours and making decisions, path finding module determines the path of robot. In the paper the integration of a Rapidly Exploring Random Tree (RRT) with path smoothing techniques is developed to find the path of the robot in a short time. The obtained simulation and experimental results show that the constructed navigation system of soccer robots efficiently finds desirable and feasible solutions in short amount of time. Keywords—

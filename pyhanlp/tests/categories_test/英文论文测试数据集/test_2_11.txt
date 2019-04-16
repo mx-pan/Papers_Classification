@@ -1,0 +1,6 @@
+**题目**
+Tracking control for piezo-actuated stage using sliding mode controller with observer-based hysteresis compensation
+**关键字**
+Hysteresis; Observer; Piezoelectric actuator; Tracking Control
+**摘要**
+This paper presents a tracking control scheme for positioning of piezo-actuated stage under hysteresis effect. The hysteresis is estimated by an nonlinear observer and is compensated via feedforward control. Sliding mode controller is employed as a feedback control to track the reference. Exper- imental results showed effectiveness of the proposed scheme.

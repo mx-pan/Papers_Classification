@@ -1,0 +1,6 @@
+**题目**
+Using bearing-sensitive infrared sensor arrays in Motion localization for human-following robots
+**关键字**
+bearing-sensitive; Motion localization; human-following robots
+**摘要**
+This paper concerns the lightweight and robust infrared motion localization for human-following robots. We use bearing-sensitive pyroelectric infrared (PIR) sensor arrays in motion localization with two steps. The first step aims at generating bearing measurements of a human target from multiple perspectives with the PIR sensor arrays. The second step aims at locating the target through a least squares fusion of bearing measurements. The experimental results show that this approach ensures a human-following robot continuously working in an environment with complex background and light condition.

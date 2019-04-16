@@ -1,0 +1,6 @@
+**题目**
+Connectivity control on Lie groups
+**关键字**
+Lie groups; Connectivity control; networks
+**摘要**
+The preservation of connectivity in networks is critical to the success of existing algorithms designed to achieve various goals. Control laws increasing the connectivity of a given state-dependent graph have been formulated for agents evolving on the Euclidean space. In this paper, we show that similar control laws can be adapted tomore general spaces. In particular, we consider agents whose configuration space is represented by a Lie group. In addition, we will require the resulting control law to be symmetric with respect to the natural group action, with the intention that additional controllers for the group action may be implemented on top of the connectivity controllers.

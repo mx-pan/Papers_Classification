@@ -1,0 +1,6 @@
+**题目**
+State estimation for genetic regulatory networks with time-varying delay using stochastic sampled-data
+**关键字**
+genetic regulatory networks; state estimator; stochastic sampled-data; time-; varying delay
+**摘要**
+This paper considers genetic regulatory networks with time-varying delay. By construction of a suitable Lyapunov- Krasovskii functional and utilization of stochastic sampled-data, a delay-dependent state estimation for the concerned systems is established in terms of linear matrix inequalities (LMIs) which can be easily solved by various effective optimization algorithms. One numerical example is given to illustrate the effectiveness of the proposed method.

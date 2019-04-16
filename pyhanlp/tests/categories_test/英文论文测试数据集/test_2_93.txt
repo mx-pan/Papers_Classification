@@ -1,0 +1,6 @@
+**题目**
+Low-complexity MISO models of T1DM glucose metabolism
+**关键字**
+MISO models; control algorithm; T1DM
+**摘要**
+One of the main limiting factor in developing a control algorithm for glycemia regulation is the lack of a control-oriented, parsimonious yet physiologically sound and individualized model able to reflect the basic dynamical features of the glucose-insulin metabolic system required for the control design. In this paper we focus on estimating low-complexity MISO models of the glucose metabolism in T1DM developed specifically for a controller implementing a basal-bolus therapy. The models are continuous-time second-order transfer functions relating the amount of carbohydrate of a meal and the insulin dose administered accordingly (inputs) to plasma glucose evolution (output) and consist of 4 parameters clinically relevant to be identified.

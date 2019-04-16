@@ -1,0 +1,6 @@
+**题目**
+On the conservativeness of fuzzy and fuzzy-polynomial control of nonlinear systems
+**关键字*
+LMI,Fuzzy control,Relaxed stability conditions,Polynomial fuzzy systems,Nonlinear control,Sum of squares
+**摘要**
+Abstract(#br)A fairly general class of nonlinear plants can be modeled as fuzzy systems, i.e., as a time-varying convex combination of “vertex” linear systems. As many linear LMI control results naturally generalize to such fuzzy systems, LMI formulations for fuzzy control became the tool of choice in the 1990s. Important results have since been obtained in the fuzzy arena, although significant sources of conservativeness remain. This paper reviews some of the sources of conservativeness of fuzzy control designs based on the linear vertex models instead of the original nonlinear equations. Then, ideas that may overcome some of the conservativeness issues (but increasing computational requirements) are discussed. Recently, the sum of squares paradigm extended some linear results to polynomial systems; this idea can be used for the so-called fuzzy polynomial systems that are also discussed in this work.

@@ -1,0 +1,6 @@
+**题目**
+Numerical analysis of a reparable multi-state device
+**关键字**
+Multi-State; Trotter-Kato Theorem; reparable system
+**摘要**
+A numerical scheme is formulated for approximating the dynamic behavior of a reparable multi-state device, which can be described as a distributed parameter system of coupled partial and ordinary hybrid equations. The convergence issues are established by applying the Trotter-Kato Theorem, and simulation results show the effectiveness of the proposed scheme.

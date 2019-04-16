@@ -1,0 +1,6 @@
+**题目**
+Distributed adaptive output agreement in a class of multi-agent systems
+**关键字**
+multi-agent systems; distributed output agreement; nonlinear and uncertain dynamics
+**摘要**
+In this article we consider the distributed output agreement problem in a class of heterogeneous multi-agent dynamic systems composed of agents with nonlinear and uncertain dynamics.We develop a distributed direct adaptive fuzzy control methodology which using only local information guarantees achievement of agreement of the agent outputs despite the uncertainties in the agent dynamics. The performance of the proposed strategy is verified for various neighborhood topologies using representative numerical simulations.

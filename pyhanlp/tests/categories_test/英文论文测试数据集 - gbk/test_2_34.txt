@@ -1,0 +1,6 @@
+**题目**
+A method for decentralized formation building for unicycle-like mobile robots
+**关键字**
+decentralized formation; unicycle-like; mobile robots
+**摘要**
+The paper presents a method for decentralized flocking and global formation building for a network of unicycles described by the standard kinematics equations with hard constraints on the vehicles linear and angular velocities. We propose decentralized motion coordination control algorithms for the robots so that they collectively move in a desired geometric pattern from any initial position. There are no predefined leaders in the group and only local information is required for the control. The effectiveness of the proposed control algorithms is illustrated via computer simulations.

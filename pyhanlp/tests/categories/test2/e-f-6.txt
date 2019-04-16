@@ -1,0 +1,6 @@
+**题目**
+Active Noise Control Using a Fuzzy Inference System Without Secondary Path Modelling
+**关键字*
+Active Noise Control,adaptive control,fuzzy inference system,FXLMS,sign-varying step size
+**摘要**
+Abstract For many adaptive noise control systems the Filtered-Reference LMS, known as the FXLMS algorithm is used to update parameters of the control filter. Appropriate adjustment of the step size is then important to guarantee convergence of the algorithm, obtain small excess mean square error, and react with required rate to variation of plant properties or noise nonstationarity. There are several recipes presented in the literature, theoretically derived or of heuristic origin. This paper focuses on a modification of the FXLMS algorithm, were convergence is guaranteed by changing sign of the algorithm steps size, instead of using a model of the secondary path. A TakagiSugeno-Kang fuzzy inference system is proposed to evaluate both the sign and the magnitude of the step size. Simulation experiments are presented to validate the algorithm and compare it to the classical FXLMS algorithm in terms of convergence and noise reduction.

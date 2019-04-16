@@ -1,0 +1,6 @@
+**题目**
+Formation control of multiple robots using constrained motion formulation
+**关键字**
+formation control; multiple robots; virtual force
+**摘要**
+This paper presents a novel approach for formation control of multiple robots by representing the desired formation as motion constraints and transferring the problem to cooperative hybrid position/force control of the robots. The desired formation is achieved by controlling the virtual forces of the robots induced on the constraint manifolds. It is shown that a simple PD plus virtual force feedback controller yields asymptotic stability in the leader-follower formation regulation of multiple robots. To avoid planning desired trajectories for all the robots in the formation tracking problem, a new concept called reference propagation is proposed to propagate the desired motion of the group leader to all the other robots. Based on this new concept, a new controller is also developed for formation tracking of multiple robots in a leader-follower formation. The stability of the controllers is rigorously proved by Lyapunov theory. Simulations were performed to validate the proposed approaches.

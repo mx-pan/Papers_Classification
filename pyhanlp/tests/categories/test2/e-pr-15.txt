@@ -1,0 +1,6 @@
+**题目**
+New Mixed Kernel Functions of SVM Used in Pattern Recognition
+**关键字**
+Support vector machine,kernel functions,pattern recognition,Wavelet function.
+**摘要**
+Abstract The pattern analysis technology based on kernel methods is a new technology, which combines good performance and strict theory. With support vector machine, pattern analysis is easy and fast. But the existing kernel function fits the requirement. In the paper, we explore the new mixed kernel functions which are mixed with Gaussian and Wavelet function, Gaussian and Polynomial kernel function. With the new mixed kernel functions, we check different parameters. The results shows that the new mixed kernel functions have good time efficiency and accuracy. In image recognition we used SVM with two mixed kernel functions, the mixed kernel function of Gaussian and Wavelet function are suitable for more states.

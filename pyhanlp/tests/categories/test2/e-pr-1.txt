@@ -1,0 +1,6 @@
+**题目**
+Pattern recognition receptors and central nervous system repair
+**关键字**
+Animals,Cell Survival,Central Nervous System Diseases,Humans,Immunity, Innate,Receptors, Pattern Recognition,Signal Transduction,Toll-Like Receptors.
+**摘要**
+Pattern recognition receptors (PRRs) are part of the innate immune response and were originally discovered for their role in recognizing pathogens by ligating specific pathogen associated molecular patterns (PAMPs) expressed by microbes. Now the role of PRRs in sterile inflammation is also appreciated, responding to endogenous stimuli referred to as "damage associated molecular patterns" (DAMPs) instead of PAMPs. The main families of PRRs include Toll-like receptors (TLRs), Nod-like receptors (NLRs), RIG-like receptors (RLRs), AIM2-like receptors (ALRs), and C-type lectin receptors. Broad expression of these PRRs in the CNS and the release of DAMPs in and around sites of injury suggest an important role for these receptor families in mediating post-injury inflammation. Considerable data now show that PRRs are among the first responders to CNS injury and activation of these receptors on microglia, neurons, and astrocytes triggers an innate immune response in the brain and spinal cord. Here we discuss how the various PRR families are activated and can influence injury and repair processes following CNS injury.

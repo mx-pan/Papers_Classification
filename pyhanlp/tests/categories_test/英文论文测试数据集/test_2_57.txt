@@ -1,0 +1,6 @@
+**题目**
+Necessary and sufficient condition of consensus for affine multi-agent cooperative systems under time-varying directed networks
+**关键字**
+consensus; multi-agent; cooperative systems; time-varying directed networks
+**摘要**
+This work studies the necessary and sufficient con- dition for a class of affine multi-agent system under time varying directed network. A notion called ∞?adjoin graph of time- varying network, whose properties will be used as the criterion of system achieving consensus, is initiated. By a decomposition on ∞?adjoin graph of the time-varying directed network, the system may consist of several independent basic components and non-independent basic components of the system. Based on this composition and some assumptions on the system, we provided the necessary and sufficient condition for achieving consensus of systems. This work extends and modifies the results given in our previous paper[15].

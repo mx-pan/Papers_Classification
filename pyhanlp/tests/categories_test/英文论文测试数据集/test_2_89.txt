@@ -1,0 +1,6 @@
+**题目**
+A novel method for indirect estimation of tire pressure
+**关键字**
+indirect estimation; tire pressure; automotive vehicle
+**摘要**
+In this paper a novel algorithm for indirectly estimating predetermined levels of tire deflation of an automotive vehicle is described. The estimation method is based on measuring varying levels of lateral dynamics behavior due to certain types of tire failures that may include excessive deflation or significant thread loss. Given the fact that both failures will notably affect the lateral vehicle behavior, quantifying these levels of alteration in the lateral dynamical response forms the basis of the estimation method. In achieving this, multiple models and switching method is utilized based on linearized lateral dynamics models of the vehicle that are parametrized to account for the uncertainty in tire pressure levels. The results are demonstrated using representative numerical simulations.

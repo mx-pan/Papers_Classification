@@ -1,0 +1,6 @@
+**题目**
+Distributed Behavioral Control for Second-Order Nonlinear Multi-Agent Systems
+**关键字**
+Behavioral control,distributed control,estimator,multi-behavior,multi-agent system,neural networks
+**摘要**
+Abstract(#br)In this paper, we investigate a novel distributed behavioral control scheme for second-order nonlinear multi-agent systems (MAS) directed network topologies. Unlike most existing behavioral control algorithms which require global information of the underlying network, we develop a distributed adaptive behavioral control using a local adaptive strategy via distributed state estimator, null-space-based behavioral projection, and neural-network-based approximation. Some simple behaviors for each agent are defined and properly arranged according to their priority to achieve the assigned overall behavior. In particular, tracking is performed in a distributed manner, in which the behaviors of each agent only depend on local information concerning the agent’s neighbors. Finally, we present a simulation example to verify and illustrate the theoretical results.

@@ -1,0 +1,6 @@
+**题目**
+A simple approach to nonlinear state feedback design
+**关键字**
+nonlinear state feedback; state feedback controllers
+**摘要**
+Global state feedback controllers that asymptotically and robustly stabilize a nonlinear system are derived from the solution of inequalities obtained directly from the controlled systems equation.

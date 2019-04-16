@@ -1,0 +1,6 @@
+**题目**
+Integration of the Urban Public Transportation System with the Application of Traffic Simulation
+**关键字**
+integration,evaluation,public transportation system,traffic simulation,comparison of variants.
+**摘要**
+Abstract(#br)The paper presents the overall methodology of designing and assessment of transportation solutions that result in the integration of an urban public transportation system. The proposed approach is based on the application of heuristic – expert design of an integrated urban public transportation system, its simulation with the use of a computer-based macro-simulation system VISUM and its multidimensional – multiple parameter comparison with the existing solution. The article describes in detail all the steps to be taken when applying the proposed procedure that leads to the development of an integrated public transportation system. While designing the transport integration solutions the authors focus on the following dimensions of integration: spatial, infrastructural, organizational, economical and informational. The comparison between the proposed variant of integration and the existing public transportation system is carried out.

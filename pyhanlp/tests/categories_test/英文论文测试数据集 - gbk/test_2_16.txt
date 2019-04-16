@@ -1,0 +1,6 @@
+**题目**
+Dominant three pole placement in PID control loop with delay
+**关键字**
+system dominant pole placement;PID controller tuning; ultimate frequency; absolute error integral criterion
+**摘要**
+In applying the pole assignment to tuning the PID controllers the usual presence of delay in the control loop brings about an infinite order character of the system dynamics, i.e. an infinite spectrum of poles. Therefore any pole placement can result in the desired tuning of the control loop only if the prescribed and placed poles really become the dominant poles of the control loop dynamics. With respect to three parameters of PID controller just three poles can be placed by the assignment and a dominance guarantee of their prescription is crucial in this way of tuning. A novel method of selecting a trio of numbers with an equal real part to make them the dominant poles of the control loop is dealt with in the paper with an additional minimizing the absolute error integral. An original assessment is introduced to check the dominance of the pole placement and an optimum of relative damping of the response is assessed to minimize the control error integral. The quality of the disturbance rejection response is taken as the decisive criterion in the presented design of the time delay plant control. ? 2013 IEEE.

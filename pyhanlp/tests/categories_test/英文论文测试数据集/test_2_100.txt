@@ -1,0 +1,6 @@
+**题目**
+Performance analysis of MPC based on structures subject to no-model input/output combinations
+**关键字**
+MPC; no-model; MIMO
+**摘要**
+An analysis of the benefits over MPC performance obtained through the use of a method to detect no-model IO (input/output) combinations for open and closed-loop in multiple input multiple output (MIMO) systems is performed. Traditional approaches to IO selection are usually performed after the plant model is already characterized, which can lead to model-plant mismatch. The approach herein presented is applied during the pre-identification stage, in order to provide previous information to the following stages. A study case involving identification of a 2 × 2 MIMO system is discussed.

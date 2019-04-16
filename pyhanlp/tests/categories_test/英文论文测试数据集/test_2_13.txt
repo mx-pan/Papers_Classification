@@ -1,0 +1,6 @@
+**题目**
+Passivity-Based Observer Design and Robust Output Feedback Control for Nonlinear Uncertain Systems
+**关键字**
+passivity; observer; output feedback; LMI; ISS
+**摘要**
+This paper presents a new method for a passivity- based observer design and robust output feedback control of a class of nonlinear uncertain systems. The uncertainties satisfy the Lipschitz-type constraints. Firstly, the passivity condition, which assures the existence of an observer, is expressed in terms of a linear matrix inequality (LMI). Then, for the output feedback control, a sufficient condition in terms of LMI is given for input- to-state stability (ISS) with regard to the observer error. Meanwhile, it is shown that the observer error decays to zero. Therefore, the asymptotic stability is guaranteed by ISS. This proposed method is much less conservative. Finally, a simulation example is illustrated the effectiveness of the proposed results.

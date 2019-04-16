@@ -1,0 +1,6 @@
+**题目**
+On-line schedule model for reusable equipment maintenance and support resource in wartime
+**关键字**
+SEAS; genetic algorithm (GA); maintenance and support resources; on-line schedule
+**摘要**
+Based on the discussion of reusable equipment maintenance and support resource in wartime, an on-line schedule model is proposed. Firstly, this paper analyzes the difference of the scheduling process between reusable resource and consumption resource in wartime. Secondly, the model takes the following issues into account: the priority of fault node, the acceptable waiting time of fault node, the different Mean Time Between Failures (MTBF) of fault node, the centralized control and distributed control. Furthermore, with the temporal and priority constraints, the on-line scheduling process returns the best solution in real time by using the Genetic Algorithm. An online simulation system based on System Effectiveness Analysis Simulation (SEAS) is designed to confirm that, comparing with the FIFO model and minimum distance model, the on-line schedule model can reduce the mean-latency-time of the fault node effectively in war time. ? 2013 IEEE.

@@ -1,0 +1,6 @@
+**题目**
+Model free analysis and tuning of PID controller
+**关键字**
+PID control; characteristic frequency; frequency characteristics; closed loop response; frequency zone analysis
+**摘要**
+In this paper, a new PID parameter tuning method is proposed. First, extensive analysis of the PID frequency properties is conducted. Based on the analysis results, the concept of characteristic frequency of the PID controller is proposed, which builds a relationship between the PID parameters and the oscillation characteristics of the closed loop response of the PID control system. Second, extensive study is made on how the PID parameters influence the closed loop system response characteristics. Third, based on the characteristic frequency of the PID controller and the corresponding analysis results, a set of tuning rules of the PID parameters are proposed, which are based on the characteristics of the closed loop response. The merits of these tuning rules are: only the characteristics of the closed loop response of the control system are required in the tuning process, while the system model of the controlled object is not required. Finally, the effectiveness of these tuning rules is verified by the simulation results on several typical models of the controlled objects.

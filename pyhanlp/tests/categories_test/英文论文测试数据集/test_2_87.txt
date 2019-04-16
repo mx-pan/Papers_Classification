@@ -1,0 +1,6 @@
+**题目**
+State estimation in discrete-time nonlinear stochastic systems subject to random data loss
+**关键字**
+State estimation; discrete-time; nonlinear stochastic systems
+**摘要**
+This paper focuses on observer design problem in discrete-time nonlinear stochastic systems subject to random data loss. A sufficient condition is derived which guarantees exponential mean-square stability of the estimation error. An efficient algorithm is also proposed to obtain the observer gain. The effectiveness of the proposed observer design technique is evaluated by applying it to a multi-input multi-output aerodyne flight system.

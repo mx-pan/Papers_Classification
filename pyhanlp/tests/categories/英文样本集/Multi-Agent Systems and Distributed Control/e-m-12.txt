@@ -1,0 +1,6 @@
+**题目**
+Distributed control algorithm for bipartite consensus of the nonlinear time-delayed multi-agent systems with neural networks
+**关键字**
+Bipartite consensus,Distributed control algorithm,Multi-agent systems,Neural networks,Time delays.
+**摘要**
+Abstract(#br)A neural-network-based distributed control algorithm is established for bipartite consensus of the nonlinear multi-agent systems with time delays. By using a backstepping technique, a desired reference signal is introduced. Then, neural networks are used to learn the unknown nonlinear dynamics of the multi-agent systems. In order to eliminate the effects of time delays, the information of a constructed Lyapunov–Krasovskii functional is included in the distributed control algorithm. However, it can induce singularities in the distributed control algorithm. Therefore, a σ -function is utilized to circumvent this problem. With the developed distributed control algorithm, bipartite consensus can be reached if the communication graph is structurally balanced. Finally, simulation examples are conducted to demonstrate the validity of the main theorem.

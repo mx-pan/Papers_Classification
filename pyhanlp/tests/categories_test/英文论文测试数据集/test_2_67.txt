@@ -1,0 +1,6 @@
+**题目**
+Modeling and control of an Electric drive system with continuously variable reference, moment of inertia and load disturbance
+**关键字**
+PI controllers; PI-fuzzy controllers; cascade control structures; strip winding systems; variable moment of inertia
+**摘要**
+This paper presents applicative aspects concerning the modeling, simulation, analysis and design of control solutions for a direct current electric drive system with continuously variable reference input (speed), variable moment of inertia and variable load disturbance. Two variable control structures for speed control are treated. The structures employ the switching between three or more control algorithms, and their design is based on the detailed mathematical model of the plant and on the particular features of the drive system. Conventional and fuzzy control solutions are offered as they are advantageous with respect to the continuous parameter adaptation because of the simplicity in adaptation at representative operating points. The solutions are validated by a digitally simulated application with fixed parameters and tested on a strip winding system laboratory equipment as a representative mechatronics system application. ? 2013 IEEE.

@@ -1,0 +1,6 @@
+**题目**
+Iterative learning control approach for a kind of heterogeneous multi-agent systems with distributed initial state learning
+**关键字**
+Multi-agent systems,Iterative learning control,Heterogeneous systems,Distributed initial state learning controller,Consensus algorithm
+**摘要**
+Abstract(#br)In this paper, leader–follower coordination problems of a kind of heterogeneous multi-agent systems are studied by applying iterative learning control (ILC) scheme in a repeatable control environment. The heterogeneous multi-agent systems are composed of first-order and second-order dynamics in two aspects. The leader is assumed to have second-order dynamics and the trajectories of the leader are only accessible to a subset of the followers. To overcome the strict identical initial condition commonly used in ILC, the distributed initial state learning controller for each follower is designed, thus each follower agent can take arbitrary initial state. Distributed iterative learning protocols guarantee that all follower agents can achieve perfect tracking consensus for both fixed and switching communication topologies, respectively. In addition, the proposed scheme is also extended to achieve formation control for heterogeneous multi-agent system. Finally, simulation examples are given to illustrate the effectiveness of the proposed methods in this article.

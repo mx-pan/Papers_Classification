@@ -1,0 +1,6 @@
+**题目**
+Data‐driven model predictive quality control of batch processes
+**关键字**
+control,process control,batch processes,model predictive control
+**摘要**
+The problem of driving a batch process to a specified product quality using data‐driven model predictive control (MPC) is described. To address the problem of unavailability of online quality measurements, an inferential quality model, which relates the process conditions over the entire batch duration to the final quality, is required. The accuracy of this type of quality model, however, is sensitive to the prediction of the future batch behavior until batch termination. In this work, we handle this “missing data” problem by integrating a previously developed data‐driven modeling methodology, which combines multiple local linear models with an appropriate weighting function to describe nonlinearities, with the inferential model in a MPC framework. The key feature of this approach is that the causality and nonlinear relationships between the future inputs and outputs are accounted for in predicting the final quality and computing the manipulated input trajectory. The efficacy of the proposed predictive control design is illustrated via closed‐loop simulations of a nylon‐6,6 batch polymerization process with limited measurements.

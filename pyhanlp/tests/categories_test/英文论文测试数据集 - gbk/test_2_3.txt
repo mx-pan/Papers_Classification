@@ -1,0 +1,6 @@
+**题目**
+Estimation of Debris Hazard Areas due to a Space Vehicle Breakup at High Altitudes
+**关键字**
+Covariance propagation; estimation
+**摘要**
+With the recent developments in the Commercial Space Transportation industry, there has been a surge of interest in the analyses of the debris hazard areas due to a space vehicle breakup and the risk posed to the aircraft in the national airspace system as well as to the people and the property on the ground. The focus of this paper is to study the problem of estimation of the extent of the airspace containing falling debris due to a space vehicle breakup. A precise computation of propagation of debris to the ground is not practical for many reasons. There is insufficient knowledge of the initial state vector; ambient wind conditions; and key parameters, including the ballistic coefficient distributions. In addition, propagation of all debris pieces to the ground would require extensive computer time. In this paper, a computationally efficient covariance propagation method is employed for the estimation of debris dispersion.

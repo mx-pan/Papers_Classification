@@ -1,0 +1,6 @@
+**题目**
+METHOD FOR BUILDING ENERGY MODELING BASED ON DATA DRIVEN MODEL AND METHOD AND SYSTEM FOR OPTIMAL ENERGY MANAGEMENT AND CONTROL
+**关键字**
+发明:7542,施加:4188,模型:2642,大楼:2549,精密的:1709,方法:1659,过程:1447,合意:1381,系:1167,由此:1019,invention:7542,applying:4188,model:2642,building:2549,precise:1709,method:1659,process:1447,consensus:1381,system:1167,thereof:1019
+**摘要**
+The present invention relates to a method for building a building energy model by using a data-driven model, a building operating method using the same, and a system thereof. More specifically, the present invention provides a method for obtaining a precise and effective approximation model and estimation model by filtering more precise data by applying a random sample consensus (RANSAC) technique when building the building energy model using a Gaussian process.

@@ -1,0 +1,6 @@
+**题目**
+Distributed Control of Multi-Agent Systems over Unknown Communication Networks using Extremum Seeking
+**关键字**
+Distributed control,Extremum seeking control,consensus estimation,unknown communication networks,real-time optimization,multi-agent systems
+**摘要**
+Abstract(#br)In this paper, the solution of large-scale real-time optimization problems of multi-agent systems (MAS) is tackled in a distributed and a cooperative manner without the requirement of exact knowledge of network connectivity. Each agent in the communication network measures a local disagreement cost in addition to its local cost. The agents must work collaboratively to ensure that the system's unknown overall cost (i.e., the sum of the local cost of all the agents) is minimized. In order to minimize this cost, the local disagreement cost of all the agents must first be minimized. This minimization requires the solution of a consensus estimation problem and ensures that the agents reach agreement on their decision variables. To address this challenging problem, a distributed proportional-integral extremum seeking control technique is proposed, one that solves both problems simultaneously. Three simulation examples are included, they demonstrate the effectiveness and robustness of the proposed technique.

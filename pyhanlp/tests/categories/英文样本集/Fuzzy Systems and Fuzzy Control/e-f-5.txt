@@ -1,0 +1,6 @@
+**题目**
+Robust Control for Fuzzy Nonlinear Uncertain Systems with Discrete and Distributed Time Delays
+**关键字*
+Fuzzy Nonlinear Systems,Robust Control,Delay Fractioning Technique,Linear Matrix Inequality,Lyapunov-Krasovskii Functional
+**摘要**
+Abstract This paper addresses the problem of stability and stabilization issue for a class of fuzzy nonlinear uncertain systems with discrete and distributed time delays. By utilizing a new Lyapunov-Krasovskii functional together with free weighting matrix approach, a new set of delay-dependent sufficient conditions are derived which makes the closed loop system robustly asymptotically stable. In particular, the parameter uncertainties are assumed to be norm bounded. Further, a state feedback controller is proposed to guarantee the robust stabilization for uncertain systems and subsequently the controller is constructed in terms of the solution to a set of linear matrix inequalities (LMI). The derived conditions are expressed in the form of linear matrix inequalities which can be efficiently solved via standard LMI toolbox. Further, two numerical examples are provided to demonstrate the effectiveness and less conservatism of the obtained results.

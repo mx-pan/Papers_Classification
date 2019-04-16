@@ -1,0 +1,7 @@
+**题目**
+On generalization of integral control to a class of nonlinear uncertain systems
+**关键字**
+nonlinear control,uncertain systems,adaptive control,integral action,approximator,functional uncertainty.
+**摘要**
+On generalization of integral control to a class of nonlinear uncertain systems The paper concerns a new view on the problem of integral control in the context of nonlinear uncertain systems. It is demonstrated that a standard integral action applied to the linear control system with so-called load disturbances, can be generalized to comprise a class of linearly parameterized nonlinear SISO systems with functional uncertainty. In this case the integral action is turned out to be in fact an adaptation law of unknown parameters. It has been found that the obtained proportional-integral controller's variable gains are the basis functions of the system unknown nonlinearity approximator.
+

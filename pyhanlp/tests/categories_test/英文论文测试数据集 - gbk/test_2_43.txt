@@ -1,0 +1,6 @@
+**题目**
+Hyperstability analysis of switched systems subject to integral popovian constraints
+**关键字**
+asymptotic hyperstability; hyperstability; switched dynamic systems; switching laws
+**摘要**
+This paper studies the asymptotic hyperstability of switched time-varying dynamic systems. The system is subject to switching actions among linear time-invariant parameterizations in the feed-forward loop for any feedback regulator controller. Moreover, such controllers can be also subject to switching through time while being within a class which satisfies a Popov's-type integral inequality. Asymptotic hyperstability is proven to be achievable under very generic switching laws if (i) at least one of the feed-forward parameterization possesses a strictly positive real transfer function, (ii) a minimum residence time interval is respected for each activation time interval of such a parameterization and (iii) a maximum allowable residence time interval is simultaneously maintained for all active parameterization which are not positive real, if any. ? 2013 IEEE.

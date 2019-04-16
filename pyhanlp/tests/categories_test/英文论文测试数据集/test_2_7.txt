@@ -1,0 +1,6 @@
+**题目**
+High-order consensus in high-order multi-agent systems
+**关键字**
+consensus; multi-agent
+**摘要**
+This paper studies the high-order consensus problem for high-order multi-agent systems with heterogeneous dy- namics and diverse communication delays. A necessary and sufficient condition is given for the existence of high-order consen- sus solution to heterogeneous multi-agent systems. The obtained condition shows that for systems with diverse communication delays, high-order consensus does not require each self-delay of agent is equal to the corresponding communication delay. A matching condition for self-delays and communication delays is derived.

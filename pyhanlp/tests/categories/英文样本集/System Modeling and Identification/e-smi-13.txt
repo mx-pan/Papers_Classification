@@ -1,0 +1,6 @@
+**题目**
+Control Oriented Modeling and Identification of Nonlinear Systems
+**关键字**
+Frequency Response Analysis,System Identification,Nonlinear Simulation,Nonlinear Modeling,CIFER Software.
+**摘要**
+This study describes a practical and systematic procedure for identifying and modeling nonlinear systems based on the input-output analysis. Frequency domain data is used to obtain a reduced linear models of nonlinear systems. A coherence function is introduced to specify the identification accuracy. The procedure is applied to a small vertical take-off and landing air vehicle. Control compensators are then designed based on the identified models and autonomous hovering is successfully achieved. Simulation results demonstrate the effectiveness and superiority of this method in comparison with other classical approaches.

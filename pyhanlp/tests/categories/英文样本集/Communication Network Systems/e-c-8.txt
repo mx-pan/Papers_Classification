@@ -1,0 +1,6 @@
+**题目**
+The Study on the Communication Network of Wide Area Measurement System in Electricity Grid
+**关键字**
+Smart Gid,OSI,Wide area measurement system,communication network,IP over SDH,IP over WDM
+**摘要**
+Abstract(#br)Wide area measurement system(WAMS) is a fundamental part of security defense in Smart Grid, and the communication system of WAMS is an important part of Electric power communication network. For a large regional network is concerned, the real-time data which is transferred in the communication network of WAMS will affect the safe operation of the power grid directly. Therefore, WAMS raised higher requirements for real-time, reliability and security to its communication network. In this paper, the architecture of WASM communication network was studied according to the seven layers model of the open systems interconnection(OSI), and the network architecture was researched from all levels. We explored the media of WAMS communication network, the network communication protocol and network technology. Finally, the delay of the network were analyzed.

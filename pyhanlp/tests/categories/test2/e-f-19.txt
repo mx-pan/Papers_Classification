@@ -1,0 +1,6 @@
+**题目**
+Direct adaptive fuzzy control for a class of MIMO nonlinear systems
+**关键字**
+Fuzzy systems,Fuzzy control,Adaptive control,MIMO nonlinear systems,Gradient descent algorithm
+**摘要**
+This article presents a direct adaptive fuzzy control scheme for a class of uncertain continuous-time multi-input multi-output nonlinear (MIMO) dynamic systems. Within this scheme, fuzzy systems are employed to approximate an unknown ideal controller that can achieve control objectives. The adjustable parameters of the used fuzzy systems are updated using a gradient descent algorithm that is designed to minimize the error between the unknown ideal controller and the fuzzy controller. The stability analysis of the closed-loop system is performed using a Lyapunov approach. In particular, it is shown that the tracking errors are bounded and converge to a neighborhood of the origin. Simulations performed on a two-link robot manipulator illustrate the approach and exhibit its performance.

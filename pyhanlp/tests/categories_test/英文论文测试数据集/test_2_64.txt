@@ -1,0 +1,6 @@
+**题目**
+Sliding mode based DTC of three-level inverter fed induction motor using switching vector table
+**关键字**
+Variable Speed Drives; Voltage Source Inverter; DTC; Space Vector PWM
+**摘要**
+This paper presents two sliding surfaces to control stator flux magnitude and developed torque of the motor. Sliding surfaces enforce the control variables to the respective reference values. A three-level switching vector table (SVT) approach is used to implement sliding mode direct torque control (SM-DTC) of induction motor drive. The SVT is formed using stator flux position in the space vector region of 3L inverter by observing the most significant vector that reflects effective change of flux magnitude and torque in that position. This switching table is simple and gives proper selection of space vector for improved performance of the DTC. Hence, the proposed SM-DTC reduces the complexity of DTC drive, improves the performance of the drive through reducing flux, torque and current ripples. The system is simulated in MATLAB/SIMULINK environment and simulation results are presented to report the improved performance of sliding mode based DTC dive.

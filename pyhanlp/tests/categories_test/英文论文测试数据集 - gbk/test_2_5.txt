@@ -1,0 +1,6 @@
+**题目**
+Coordinated control of a four-area power system under structural perturbation
+**关键字**
+Coordinated control; structural perturbation
+**摘要**
+This paper discusses the procedure of coordinated controller design under system structural perturbation when new interconnections are adding into the overall system. With the concept of pair-wise decomposition, a group of adding matrices is defined to obtain the structure-changed transformation matrices used in permuted inclusion principle. By adjusting the former controllers structure corresponding to the information structure constraints variation, the new coordinated controller is capable of achieving high performance after this structural perturbation. A numerical simulation of automatic generation control (AGC) for a four-area power system under information structure constraints addition is provided by coordinated control.

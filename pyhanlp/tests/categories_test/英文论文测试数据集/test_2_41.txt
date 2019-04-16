@@ -1,0 +1,6 @@
+**题目**
+Numerical solution for a class of pursuit-evasion problem in low earth orbit
+**关键字**
+pursuit-evasion problem; low earth orbit; spacecraft
+**摘要**
+A two spacecraft pursuit-evasion problem in a low earth orbit with two payoffs, is investigated by an integrated approach using the semi-direct nonlinear programming and the multiple shooting method. The problem is formulated by a zero- sum differential game. The miss distance at a fixed terminal time and the capture time are defined as the payoffs. The pursuer strives to minimize the payoff while the evader attempts to maximize it. Semi-direct nonlinear programming serves as a preprocessor in which control is parameterized in piecewise form. Its solution is then used as the initial values for the multiple shooting method and thus a refined solution is obtained for a two-point boundary-value problem arising from the necessary conditions. The optimal trajectory and optimal control using the semi-direct nonlinear programming and the multiple shooting method are computed and compared. Numerical equivalence of the semi-direct method and the hybrid method with respect to the differential game is evidenced by a realisti- cally modeled pursuit-evasion test case. This proposed integrated approach is shown to be robust, accurate and more efficient than using only a single method.

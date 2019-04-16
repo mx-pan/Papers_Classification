@@ -1,0 +1,6 @@
+**题目**
+Investigation of interactions between mechanical and electrical components of a motion platform
+**关键字**
+motion platform; modelling control; mechanical components; electrical components
+**摘要**
+While modelling control systems with mechanical components driven by electrical motors it is usually assumed that the torque generating (electrical) sub-system has negligible dynamics and remaining study is based on this assumption. This paper is focused on investigation of the validity of this assumption. For this purpose, the interactions between mechanical and electrical components of a system consisting of an electrical motor connected to a mechanical load has been investigated by employing a simplified, linear model. Besides the analysis using this model, data collected via experiments on real hardware was processed and compared with the theoretical findings

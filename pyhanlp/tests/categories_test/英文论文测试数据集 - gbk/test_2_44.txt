@@ -1,0 +1,6 @@
+**题目**
+Calculation of the least L1 measure for switched linear systems via similarity transformation
+**关键字**
+least L1 measure; linear systems; similarity transformation
+**摘要**
+A strategy of similarity transformation is proposed to calculate the least L1 measure for continuous-time switched linear systems. The similarity transformation we performed on matrix A is PAP-1, where the similarity transformation matrix P is a row operator multiplying a row of matrix A by a nonzero constant. A sequence of minimum of matrix set measure corresponding to a series of transformations is obtained. Furthermore, the sequence is convergent to a constant which can be used to estimate the largest divergence rate. These transformations are easily applicable because of their simple forms. A numerical simulation shows the effectiveness of the proposed method.

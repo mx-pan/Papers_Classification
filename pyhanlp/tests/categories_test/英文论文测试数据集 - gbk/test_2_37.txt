@@ -1,0 +1,6 @@
+**题目**
+Control for quadruped robots in trotting on horizontal and slanted surfaces
+**关键字**
+quadruped robot; horizontal surface; slanted surfaces
+**摘要**
+The objective of this work is to make a quadruped robot trot on horizontal and slanted surfaces through a natural transition of motion. For this, control methods that are different from the ones devised for robot trotting on horizontal surface are required. The control methods proposed in this paper consist of two parts: natural movement of the center point of foot trajectory and the impedance control based on variable impedance parameters. The changes of the center point are generated for a gradual and continuous adaptive foot motion. And, the variable impedance control and leg controls are used to maintain the stability of locomotion as well as to reduce the yawing motion. Motion of a quadruped robot with the proposed control methods were simulated and their performance were verified through the simulations.

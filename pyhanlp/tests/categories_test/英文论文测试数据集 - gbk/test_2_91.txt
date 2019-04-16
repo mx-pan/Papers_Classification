@@ -1,0 +1,6 @@
+**题目**
+A local information criterion for order identification of nonlinear ARX systems
+**关键字**
+Nonlinear ARX system; order estimation; recursive local linear estimator; strong consistency
+**摘要**
+We consider the local order estimation of non- parametric nonlinear autoregressive systems with exogenous inputs (NARX), which may have different local dimensions at different points of interest. By minimizing the kernel-based local information criterion introduced in the paper, the strongly consistent estimates for the local orders of the NARX system at of interest points are obtained. The theoretical result derived here is tested by a simulation example.

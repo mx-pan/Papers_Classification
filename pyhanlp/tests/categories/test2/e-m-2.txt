@@ -1,0 +1,6 @@
+**题目**
+Distributed control design for leader escort of multi-agent systems
+**关键字**
+multi-agent systems,leader escort,distributed control,fixed or switching topology
+**摘要**
+In this paper, we consider two-group leader escort control for multi-agent systems, where the agents are separated into two groups to escort an active leader with the same distance. To escort the moving leader, we propose different distributed controls for different cases: the bounded-leader case and the schedule-based general leader case (under either known or unknown time-varying parameter rotation-schedule). Because some agents may not get access to the leader directly, we construct the distributed controllers to escort the leader by moving symmetrically around the leader under either fixed or switching topologies, based on a distributed observer for each agent to estimate the leader's state. With the help of graph theory and Lyapunov function technique, we prove that the leader escort can be achieved asymptotically by theoretical analysis. Finally, simulation results demonstrate good performance of the proposed protocols.

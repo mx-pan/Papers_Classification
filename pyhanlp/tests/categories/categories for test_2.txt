@@ -1,0 +1,8 @@
+**Data Driven Modeling and Control**
+**Communication Network Systems**
+**Multi-Agent Systems and Distributed Control**
+**Nonlinear Systems Control**
+**System Simulation, Integration and Evaluation**
+**System Modeling and Identification**
+**Pattern Recognition**
+**Fuzzy Systems and Fuzzy Control**

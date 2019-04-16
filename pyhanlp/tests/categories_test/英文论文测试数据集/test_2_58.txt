@@ -1,0 +1,6 @@
+**题目**
+Singularity-free adaptive control for uncertain omnidirectional mobile robots
+**关键字**
+adaptive control; Singularity-free; mobile robots
+**摘要**
+Issues of control designs for omnidirectional mobile robots with parametric uncertainty, including the location of the center of the mass and the electrical constants, are addressed. First, the Lagrange method is used for deriving the system dynamics. Next, a singularity-free adaptive linearizing control is proposed to tackle with such a task. It ensures the asymptotic tracking stability and avoidance of control singularity at the same time. Simulation is carried out to demonstrate the validity of the proposed design in the final.

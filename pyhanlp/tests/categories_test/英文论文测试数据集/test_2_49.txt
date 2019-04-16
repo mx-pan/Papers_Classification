@@ -1,0 +1,6 @@
+**题目**
+A new technique in multi-model adaptive control: Sequential parameter discrimination and hybrid parameter vector
+**关键字**
+Adaptive control; multiple models; transient performance
+**摘要**
+We propose a new methodology in order to provide faster convergence in adaptive control of a class of nonlinear plants. Currently, each model in a multi-model adaptive system is evaluated as a whole, using a cost function derived from estimation errors. Therefore the number of fixed models required for improvement in transient response becomes quite large, for the plants having several unknown parameters. The proposed scheme removes this difficulty by considering each parameter sequentially and individually; and provides better convergence as compared to classical multi-model adaptive systems by using an assumption that a decrease in any element of the parameter error vector results in decrease in the state estimation error and vice-versa.

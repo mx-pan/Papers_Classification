@@ -1,0 +1,6 @@
+**题目**
+Leader-follower formation control of nonholonomic wheeled mobile robots using only position measurements
+**关键字**
+Leader-follower; wheeled mobile robots; position measurements
+**摘要**
+This paper deals with the formation control problem for a team of nonholonomic wheeled mobile robots. Each robot has a leader robot with respect to which a constant relative position is to be maintained, except for a single robot which de?nes the motion of the formation. We present a feedback control method that guarantees convergence of the relative position of any follower robot (with respect to its leader) to desired values. The controller does not require sensing of the leader’s velocity. Instead, an adaptive method is used to estimate the leader’s forward velocity.The resulting closed loop system is shown to be semi-globally asymptotically stable. Simulation results are presented in order to demonstrate the performance of the controller for two robots, and a team of mobile robots.

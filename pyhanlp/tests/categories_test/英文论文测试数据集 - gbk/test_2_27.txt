@@ -1,0 +1,6 @@
+**题目**
+Fuzzy sampled controller design for consensus of multiagent networks with varying connections
+**关键字**
+Fuzzy sampled controller; multiagent networks; fuzzy model; Consensus control
+**摘要**
+T-S fuzzy models are first presented to describe multiagent networks (MANs) with varying connections. The nodes of each T-S fuzzy model are rearranged so that the global fuzzy model is decomposed into independent and small-scale fuzzy models. It is shown that the consensus of the global fuzzy model is equivalent to that of its corresponding small-scale fuzzy models in which the sampled controller is applied. A sufficient condition is derived to ensure the consensus of the sampled controlling fuzzy models.

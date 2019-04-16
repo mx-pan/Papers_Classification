@@ -1,0 +1,6 @@
+**题目**
+On a trolley-like problem in the presence of a nonlinear friction and a bounded fuel expenditure
+**关键字**
+trolley-like problem; nonlinear friction
+**摘要**
+We consider a problem of maximization of the distance traveled by a material point in the presence of a nonlinear friction under a bounded thrust and fuel expenditure. Using the maximum principle we obtain the form of optimal control and establish conditions under which it contains a singular subarc. This problem seems to be the simplest one having a mechanical sense in which singular subarcs appear in a nontrivial way.

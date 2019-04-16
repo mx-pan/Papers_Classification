@@ -1,0 +1,6 @@
+**题目**
+A data driven control method for structure vibration suppression
+**关键字**
+Space flexible structures,Active vibration suppression,Data driven control
+**摘要**
+Abstract(#br)High radio-frequency space applications have motivated continuous research on vibration suppression of large space structures both in academia and industry. This paper introduces a novel data driven control method to suppress vibrations of flexible structures and experimentally validates the suppression performance. Unlike model-based control approaches, the data driven control method designs a controller directly from the input-output test data of the structure, without requiring parametric dynamics and hence free of system modeling. It utilizes the discrete frequency response via spectral analysis technique and formulates a non-convex optimization problem to obtain optimized controller parameters with a predefined controller structure. Such approach is then experimentally applied on an end-driving flexible beam-mass structure. The experiment results show that the presented method can achieve competitive disturbance rejections compared to a model-based mixed sensitivity controller under the same design criterion but with much less orders and design efforts, demonstrating the proposed data driven control is an effective approach for vibration suppression of flexible structures.

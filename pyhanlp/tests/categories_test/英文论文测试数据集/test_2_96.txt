@@ -1,0 +1,6 @@
+**题目**
+Dual estimation of attitude and parameters considering vibration based on GPS and IMU
+**关键字**
+attitude determination; dual estimation; flight mechanics; inertial measurement unit (IMU); vibration parameters
+**摘要**
+Attitude determination is strongly coupled with the estimation of unknown vibration parameters when the output of the inertial measurement unit (IMU) is corrupted by the vibration induced by the piston engine. The unknown vibration parameters in the attitude dynamics can degrade attitude accuracy of dead reckoning. In this paper, a dual estimation of attitude and parameters considering vibration is investigated for small UAV. The dynamic model contained attitude and parameters is established by state augmentation, and the observations are chosen as GPS velocity and heading. In order to employ hybrid extended kalman filter for dual estimation, Jacobian matrixes are formulated by linearizing the estimation model to propagate and update error variance. Since joint state estimation has tremendous computational loads, based on matrix blocking a state and parameter separated estimation is proposed to decouple the estimation of attitude and parameters. Simulation results show that the proposed method can give high precision attitude than the common filter without considering vibration.

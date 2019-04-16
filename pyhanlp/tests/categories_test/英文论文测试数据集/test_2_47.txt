@@ -1,0 +1,6 @@
+**题目**
+Robust Adaptive Attitude Synchronization of Rigid Body Networks with Unknown Inertias
+**关键字**
+attitude synchronization; nonlinear manifold; robust adaptive algorithms
+**摘要**
+In this paper we consider the attitude synchronization task for rigid body networks. The configurations of such systems evolve on SO(3), which is a nonlinear manifold and needs a special treatment for fulfilling this task. We propose two robust adaptive algorithms to handle the effects of unmodeled dynamics and unknown inertia matrices of agents. Our first approach is based on σ?modification method which ”trap” the trajectories of the system in to a small neighborhood around the origin. In the second algorithm, the effects of external disturbances are removed using a discontinuous function. We use Lyapunov methods to prove the main results of this paper. Simulation results show the effectiveness of our proposed methods.

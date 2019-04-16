@@ -1,0 +1,6 @@
+**题目**
+VF-RRT: Introducing optimization into randomized motion planning
+**关键字**
+VF-RRT; vector fields
+**摘要**
+The Vector Field Rapidly-exploring Random Tree (VF-RRT) algorithm is an extension of the RRT algorithm for planning in the presence of vector fields; its main distinguishing feature is that random nodes are generated in such a way that the trees tend to extend along the directions of the given vector field. By constructing vector fields to be aligned in the direction that minimizes the upstream cost, which is a new criterion for measuring the extent to which a path moves against the vector field flow, the VF-RRT algorithm can be used to efficiently generate nearly optimal paths while remaining with a probabilistic planning setting. Experimental results comparing our paths with those produced by the T-RRT algorithm and the basic RRT algorithm are presented.
